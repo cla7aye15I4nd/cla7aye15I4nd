@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Dataisland's GitHub stats](https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true)
+
 <!--
 **cla7aye15I4nd/cla7aye15I4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
