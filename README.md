@@ -2,8 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true&include_all_commits=true"/>
 
-Security Engineer, Qiling Commiter, CTF Player.
+*Security Engineer, Qiling Commiter, CTF Player.*
 
+- MCU Simulation
 - Firmware Analysis. 
 - Reverse Engineering. 
 - Binary Exploit.
