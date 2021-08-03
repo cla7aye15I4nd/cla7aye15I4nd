@@ -1,6 +1,14 @@
 ### Hi there 👋, this is dataisland.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true&include_all_commits=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true&include_all_commits=true"/>
+
+Security Engineer, Qiling Commiter, CTF Player.
+
+- Firmware Analysis. 
+- Reverse Engineering. 
+- Binary Exploit.
+- Compiler Design.
+
 
 <!--
 **cla7aye15I4nd/cla7aye15I4nd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
