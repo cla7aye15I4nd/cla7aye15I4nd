@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true&include_all_commits=true"/>
 
-*Security Engineer, [Qiling](https://github.com/qilingframework/qiling) Commiter, CTF Player, Open-source enthusiast.*
+*Security Engineer, [Qiling](https://github.com/qilingframework/qiling) Core Developer, CTF Player, Open-source enthusiast.*
 
 - MCU Simulation
 - Firmware Analysis. 
