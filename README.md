@@ -1,10 +1,10 @@
-### Hi there 👋, this is dataisland.
+### Hi there 👋, this is dataisland ([CV](CV.pdf)).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&count_private=true&theme=buefy&show_icons=true&include_all_commits=true"/>
 
-*Bechlor@Shang Hai Jiao Tong University*
+Bechlor@Shang Hai Jiao Tong University
 
-*PhD@NorthWestern University*
+PhD@NorthWestern University
 
 *Security Engineer, [Qiling](https://github.com/qilingframework/qiling) Core Developer, CTF Player, Open-source enthusiast.*
 
@@ -13,7 +13,6 @@
 - Reverse Engineering. 
 - Binary Exploit.
 - Symbolic Execution
-- Compiler Design.
 
 
 <!--
