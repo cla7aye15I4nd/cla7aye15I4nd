@@ -8,11 +8,12 @@ PhD@NorthWestern University
 
 *Security Engineer, [Qiling](https://github.com/qilingframework/qiling) Core Developer, CTF Player, Open-source enthusiast.*
 
-- MCU Simulation
-- Firmware Analysis. 
-- Reverse Engineering. 
-- Binary Exploit.
+- Compiler
+- Linux Kernel
 - Symbolic Execution
+- Large Language Model
+- Microcontroller Emulation
+- Reverse Engineering. 
 
 
 <!--
