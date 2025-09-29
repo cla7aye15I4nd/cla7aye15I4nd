@@ -1,10 +1,10 @@
-### Hi there 👋, this is dataisland ([CV](CV.pdf)).
+### Hi there 👋, this is dataisland ([CV](https://www.dataisland.org/paper/main.pdf)).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cla7aye15I4nd&show_icons=true&theme=transparent"/>
 
-Bachelor@Shang Hai Jiao Tong University
+Bachelor @ Shang Hai Jiao Tong University
 
-PhD@NorthWestern University
+PhD @ NorthWestern University
 
 *Security Engineer, [Qiling](https://github.com/qilingframework/qiling) Core Developer, CTF Player, Open-source enthusiast.*
 
