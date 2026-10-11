@@ -1,7 +1,7 @@
 {
   "ANGLE": {
-    "file": "angle.svg",
-    "source": "Project-name monogram (not an official logo)"
+    "file": "angle.png",
+    "source": "https://github.com/google.png?size=96"
   },
   "angr": {
     "file": "angr.png",
@@ -52,16 +52,16 @@
     "source": "https://github.com/gpac"
   },
   "GPTFuzz": {
-    "file": "gptfuzz.svg",
-    "source": "Project-name monogram (not an official logo)"
+    "file": "gptfuzz.png",
+    "source": "https://raw.githubusercontent.com/hubertyoo/GPTFuzz/master/sources/icon.png"
   },
   "HDF5": {
     "file": "hdf5.png",
     "source": "https://github.com/HDFGroup"
   },
   "jq": {
-    "file": "jq.svg",
-    "source": "https://cdn.simpleicons.org/jq"
+    "file": "jq.png",
+    "source": "https://github.com/jqlang.png?size=96"
   },
   "LibreDWG": {
     "file": "libredwg.png",
@@ -73,7 +73,7 @@
   },
   "LibTIFF": {
     "file": "libtiff.svg",
-    "source": "Project-name monogram (not an official logo)"
+    "source": "Image-file pictogram; not an official project logo"
   },
   "Linux": {
     "file": "linux.svg",
@@ -93,7 +93,7 @@
   },
   "Oj": {
     "file": "oj.svg",
-    "source": "Project-name monogram (not an official logo)"
+    "source": "https://www.ohler.com/dev/images/oj_comet_64.svg"
   },
   "open62541": {
     "file": "open62541.png",
@@ -104,8 +104,8 @@
     "source": "https://github.com/openwrt"
   },
   "PcapPlusPlus": {
-    "file": "pcapplusplus.svg",
-    "source": "Project-name monogram (not an official logo)"
+    "file": "pcapplusplus.png",
+    "source": "https://pcapplusplus.github.io/img/logo/logo_color.png"
   },
   "PCL": {
     "file": "pcl.png",
@@ -126,10 +126,6 @@
   "Sentry": {
     "file": "sentry.svg",
     "source": "https://cdn.simpleicons.org/sentry"
-  },
-  "ShivyC": {
-    "file": "shivyc.svg",
-    "source": "Project-name monogram (not an official logo)"
   },
   "sqlite3-ruby": {
     "file": "sqlite3-ruby.png",
@@ -155,8 +151,20 @@
     "file": "yasm.png",
     "source": "https://github.com/yasm"
   },
-  "PintOS": {
-    "file": "pintos.svg",
-    "source": "Project-name monogram (not an official logo)"
+  "XGrammar": {
+    "file": "xgrammar.png",
+    "source": "https://github.com/mlc-ai.png?size=96"
+  },
+  "Protobuf": {
+    "file": "protobuf.png",
+    "source": "https://github.com/protocolbuffers.png?size=96"
+  },
+  "Bootsnap": {
+    "file": "bootsnap.png",
+    "source": "https://cloud.githubusercontent.com/assets/3074765/24532120/eed94e64-158b-11e7-9137-438d759b2ac8.png"
+  },
+  "Hunspell": {
+    "file": "hunspell.png",
+    "source": "https://github.com/hunspell.png?size=96"
   }
 }
