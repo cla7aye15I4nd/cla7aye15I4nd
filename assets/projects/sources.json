@@ -1,7 +1,8 @@
 {
   "ANGLE": {
     "file": "angle.png",
-    "source": "https://github.com/google.png?size=96"
+    "source": "https://github.com/google.png?size=256",
+    "note": "Official Google organization avatar; ANGLE is a Google project."
   },
   "angr": {
     "file": "angr.png",
@@ -25,15 +26,15 @@
   },
   "CTF Wiki": {
     "file": "ctf-wiki.png",
-    "source": "https://github.com/ctf-wiki"
+    "source": "https://ctf-wiki.org/static/img/logo.png"
   },
   "curl": {
-    "file": "curl.svg",
-    "source": "https://cdn.simpleicons.org/curl"
+    "file": "curl.png",
+    "source": "https://curl.se/logo/curl-logo.svg"
   },
   "FFmpeg": {
-    "file": "ffmpeg.svg",
-    "source": "https://cdn.simpleicons.org/ffmpeg"
+    "file": "ffmpeg.png",
+    "source": "https://avatars.githubusercontent.com/u/729418?v=4"
   },
   "free5GC gtp5g": {
     "file": "free5gc-gtp5g.png",
@@ -41,23 +42,19 @@
   },
   "GitProxy": {
     "file": "gitproxy.png",
-    "source": "https://github.com/finos"
+    "source": "https://raw.githubusercontent.com/finos/git-proxy/main/website/static/img/logo.png"
   },
   "GNU Aspell": {
     "file": "gnu-aspell.png",
-    "source": "https://github.com/GNUAspell"
+    "source": "https://www.gnu.org/graphics/gnu-head-sm.jpg"
   },
   "GPAC": {
     "file": "gpac.png",
     "source": "https://github.com/gpac"
   },
-  "GPTFuzz": {
-    "file": "gptfuzz.png",
-    "source": "https://raw.githubusercontent.com/hubertyoo/GPTFuzz/master/sources/icon.png"
-  },
   "HDF5": {
     "file": "hdf5.png",
-    "source": "https://github.com/HDFGroup"
+    "source": "https://raw.githubusercontent.com/HDFGroup/hdf5/develop/docs/doxygen/img/HDF5.png"
   },
   "jq": {
     "file": "jq.png",
@@ -69,35 +66,37 @@
   },
   "libssh2": {
     "file": "libssh2.png",
-    "source": "https://github.com/libssh2"
+    "source": "https://libssh2.org/logo1-623.png"
   },
   "LibTIFF": {
-    "file": "libtiff.svg",
-    "source": "Image-file pictogram; not an official project logo"
+    "file": "libtiff.png",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/TIFF_wordmark_logo.svg",
+    "note": "TIFF format wordmark from the TIFF 6.0 specification. LibTIFF project and group have no uploaded avatar; this is the format mark, not an independent LibTIFF logo."
   },
   "Linux": {
-    "file": "linux.svg",
-    "source": "https://cdn.simpleicons.org/linux"
+    "file": "linux.png",
+    "source": "https://www.kernel.org/theme/images/logos/tux.png"
   },
   "mJS": {
     "file": "mjs.png",
-    "source": "https://github.com/cesanta"
+    "source": "https://github.com/cesanta.png?size=256",
+    "note": "Official Cesanta organization avatar."
   },
   "Nokogiri": {
     "file": "nokogiri.png",
-    "source": "https://github.com/sparklemotion"
+    "source": "https://nokogiri.org/images/nokogiri-serif-black.png"
   },
   "ntopng": {
     "file": "ntopng.png",
-    "source": "https://github.com/ntop"
+    "source": "https://www.ntop.org/wp-content/uploads/2011/08/ntopng-icon-150x150.png"
   },
   "Oj": {
-    "file": "oj.svg",
+    "file": "oj.png",
     "source": "https://www.ohler.com/dev/images/oj_comet_64.svg"
   },
   "open62541": {
     "file": "open62541.png",
-    "source": "https://github.com/open62541"
+    "source": "https://open62541.org/images/logo-open62541.svg"
   },
   "OpenWrt LuCI": {
     "file": "openwrt-luci.png",
@@ -112,28 +111,29 @@
     "source": "https://github.com/PointCloudLibrary"
   },
   "PHP": {
-    "file": "php.svg",
-    "source": "https://cdn.simpleicons.org/php"
+    "file": "php.png",
+    "source": "https://www.php.net/images/logos/new-php-logo.svg"
   },
   "Python": {
-    "file": "python.svg",
-    "source": "https://cdn.simpleicons.org/python"
+    "file": "python.png",
+    "source": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
   },
   "Qiling": {
     "file": "qiling.png",
     "source": "https://github.com/qilingframework"
   },
   "Sentry": {
-    "file": "sentry.svg",
-    "source": "https://cdn.simpleicons.org/sentry"
+    "file": "sentry.png",
+    "source": "https://nokogiri.org/images/sponsors/sentry-icon.png"
   },
   "sqlite3-ruby": {
     "file": "sqlite3-ruby.png",
-    "source": "https://github.com/sparklemotion"
+    "source": "https://github.com/sparklemotion.png?size=256",
+    "note": "Official Sparkle Motion organization avatar."
   },
   "TileLang": {
     "file": "tilelang.png",
-    "source": "https://github.com/tile-ai"
+    "source": "https://raw.githubusercontent.com/tile-ai/tilelang/main/docs/_static/img/logo-v2.png"
   },
   "Unicorn": {
     "file": "unicorn.png",
@@ -141,11 +141,12 @@
   },
   "Wasm3": {
     "file": "wasm3.png",
-    "source": "https://github.com/wasm3"
+    "source": "https://raw.githubusercontent.com/wasm3/wasm3/main/extra/wasm-symbol.svg"
   },
   "Wasmtime": {
     "file": "wasmtime.png",
-    "source": "https://github.com/bytecodealliance"
+    "source": "https://github.com/bytecodealliance",
+    "note": "Bytecode Alliance mark as used on the official Wasmtime website."
   },
   "Yasm": {
     "file": "yasm.png",
@@ -153,23 +154,51 @@
   },
   "XGrammar": {
     "file": "xgrammar.png",
-    "source": "https://github.com/mlc-ai.png?size=96"
+    "source": "https://raw.githubusercontent.com/mlc-ai/xgrammar/main/assets/logo_square.png"
   },
   "Protobuf": {
     "file": "protobuf.png",
-    "source": "https://github.com/protocolbuffers.png?size=96"
+    "source": "https://protobuf.dev/favicons/android-192x192.png"
   },
   "Bootsnap": {
     "file": "bootsnap.png",
-    "source": "https://cloud.githubusercontent.com/assets/3074765/24532120/eed94e64-158b-11e7-9137-438d759b2ac8.png"
+    "source": "https://github.com/rails.png?size=256",
+    "note": "Official Rails organization avatar."
   },
   "Hunspell": {
     "file": "hunspell.png",
-    "source": "https://github.com/hunspell.png?size=96"
+    "source": "https://github.com/hunspell.png?size=256",
+    "note": "Official Hunspell organization avatar."
   },
   "ShivyC": {
     "file": "shivyc.png",
     "source": "https://avatars.githubusercontent.com/u/3826263?v=4",
-    "note": "Repository owner avatar; no dedicated project logo found in the project README."
+    "note": "Official repository owner avatar; project has no separate organization or logo."
+  },
+  "PyRIT": {
+    "file": "pyrit.png",
+    "source": "https://raw.githubusercontent.com/microsoft/PyRIT/main/doc/roakey.png"
+  },
+  "libjpeg-turbo": {
+    "file": "libjpeg-turbo.png",
+    "source": "https://github.com/libjpeg-turbo.png?size=256"
+  },
+  "BSON Ruby": {
+    "file": "bson-ruby.png",
+    "source": "https://github.com/mongodb.png?size=256",
+    "note": "MongoDB organization mark; BSON is a MongoDB project."
+  },
+  "RMagick": {
+    "file": "rmagick.png",
+    "source": "https://rmagick.github.io/ex/images/logo400x83.gif"
+  },
+  "PostgreSQL": {
+    "file": "postgresql.png",
+    "source": "https://www.postgresql.org/media/img/about/press/elephant.png"
+  },
+  "Ruby JSON": {
+    "file": "ruby-json.png",
+    "source": "https://github.com/ruby.png?size=256",
+    "note": "Official Ruby organization avatar."
   }
 }
