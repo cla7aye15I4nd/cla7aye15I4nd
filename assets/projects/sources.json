@@ -200,5 +200,10 @@
     "file": "ruby-json.png",
     "source": "https://github.com/ruby.png?size=256",
     "note": "Official Ruby organization avatar."
+  },
+  "ruby-pg": {
+    "file": "ruby-pg.png",
+    "source": "https://github.com/ged.png?size=256",
+    "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README."
   }
 }
