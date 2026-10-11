@@ -1,0 +1,162 @@
+{
+  "ANGLE": {
+    "file": "angle.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "angr": {
+    "file": "angr.png",
+    "source": "https://github.com/angr"
+  },
+  "Assimp": {
+    "file": "assimp.png",
+    "source": "https://github.com/assimp"
+  },
+  "Augeas": {
+    "file": "augeas.png",
+    "source": "https://github.com/hercules-team"
+  },
+  "BlueZ": {
+    "file": "bluez.png",
+    "source": "https://github.com/bluez"
+  },
+  "C-Blosc2": {
+    "file": "c-blosc2.png",
+    "source": "https://github.com/Blosc"
+  },
+  "CTF Wiki": {
+    "file": "ctf-wiki.png",
+    "source": "https://github.com/ctf-wiki"
+  },
+  "curl": {
+    "file": "curl.svg",
+    "source": "https://cdn.simpleicons.org/curl"
+  },
+  "FFmpeg": {
+    "file": "ffmpeg.svg",
+    "source": "https://cdn.simpleicons.org/ffmpeg"
+  },
+  "free5GC gtp5g": {
+    "file": "free5gc-gtp5g.png",
+    "source": "https://github.com/free5gc"
+  },
+  "GitProxy": {
+    "file": "gitproxy.png",
+    "source": "https://github.com/finos"
+  },
+  "GNU Aspell": {
+    "file": "gnu-aspell.png",
+    "source": "https://github.com/GNUAspell"
+  },
+  "GPAC": {
+    "file": "gpac.png",
+    "source": "https://github.com/gpac"
+  },
+  "GPTFuzz": {
+    "file": "gptfuzz.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "HDF5": {
+    "file": "hdf5.png",
+    "source": "https://github.com/HDFGroup"
+  },
+  "jq": {
+    "file": "jq.svg",
+    "source": "https://cdn.simpleicons.org/jq"
+  },
+  "LibreDWG": {
+    "file": "libredwg.png",
+    "source": "https://github.com/LibreDWG"
+  },
+  "libssh2": {
+    "file": "libssh2.png",
+    "source": "https://github.com/libssh2"
+  },
+  "LibTIFF": {
+    "file": "libtiff.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "Linux": {
+    "file": "linux.svg",
+    "source": "https://cdn.simpleicons.org/linux"
+  },
+  "mJS": {
+    "file": "mjs.png",
+    "source": "https://github.com/cesanta"
+  },
+  "Nokogiri": {
+    "file": "nokogiri.png",
+    "source": "https://github.com/sparklemotion"
+  },
+  "ntopng": {
+    "file": "ntopng.png",
+    "source": "https://github.com/ntop"
+  },
+  "Oj": {
+    "file": "oj.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "open62541": {
+    "file": "open62541.png",
+    "source": "https://github.com/open62541"
+  },
+  "OpenWrt LuCI": {
+    "file": "openwrt-luci.png",
+    "source": "https://github.com/openwrt"
+  },
+  "PcapPlusPlus": {
+    "file": "pcapplusplus.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "PCL": {
+    "file": "pcl.png",
+    "source": "https://github.com/PointCloudLibrary"
+  },
+  "PHP": {
+    "file": "php.svg",
+    "source": "https://cdn.simpleicons.org/php"
+  },
+  "Python": {
+    "file": "python.svg",
+    "source": "https://cdn.simpleicons.org/python"
+  },
+  "Qiling": {
+    "file": "qiling.png",
+    "source": "https://github.com/qilingframework"
+  },
+  "Sentry": {
+    "file": "sentry.svg",
+    "source": "https://cdn.simpleicons.org/sentry"
+  },
+  "ShivyC": {
+    "file": "shivyc.svg",
+    "source": "Project-name monogram (not an official logo)"
+  },
+  "sqlite3-ruby": {
+    "file": "sqlite3-ruby.png",
+    "source": "https://github.com/sparklemotion"
+  },
+  "TileLang": {
+    "file": "tilelang.png",
+    "source": "https://github.com/tile-ai"
+  },
+  "Unicorn": {
+    "file": "unicorn.png",
+    "source": "https://github.com/unicorn-engine"
+  },
+  "Wasm3": {
+    "file": "wasm3.png",
+    "source": "https://github.com/wasm3"
+  },
+  "Wasmtime": {
+    "file": "wasmtime.png",
+    "source": "https://github.com/bytecodealliance"
+  },
+  "Yasm": {
+    "file": "yasm.png",
+    "source": "https://github.com/yasm"
+  },
+  "PintOS": {
+    "file": "pintos.svg",
+    "source": "Project-name monogram (not an official logo)"
+  }
+}
