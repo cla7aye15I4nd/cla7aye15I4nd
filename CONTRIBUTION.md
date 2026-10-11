@@ -140,6 +140,10 @@
 
 [PR #6216](https://github.com/getsentry/sentry-python/pull/6216) · [Commit 640c48d444](https://github.com/getsentry/sentry-python/commit/640c48d444c2e90d7a42d6f85e9e571cd9e9c88b)
 
+## ShivyC
+
+[PR #111](https://github.com/ShivamSarodia/ShivyC/pull/111) · [Commit e7d72eff23](https://github.com/ShivamSarodia/ShivyC/commit/e7d72eff237e1ef49ec70333497348baf86be425)
+
 ## sqlite3-ruby
 
 [GHSA-j7fr-3v8c-3qc3](https://github.com/advisories/GHSA-j7fr-3v8c-3qc3) · [GHSA-28hh-pr2h-2w89](https://github.com/advisories/GHSA-28hh-pr2h-2w89) · [Commit b24e1e6076](https://github.com/sparklemotion/sqlite3-ruby/commit/b24e1e6076528b7f95f99acf7a81c70d0004c726) · [Commit 2bd436d17f](https://github.com/sparklemotion/sqlite3-ruby/commit/2bd436d17f77cdd4c31b00fe9d50b0d21cbaf033)

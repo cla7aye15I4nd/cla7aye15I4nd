@@ -166,5 +166,10 @@
   "Hunspell": {
     "file": "hunspell.png",
     "source": "https://github.com/hunspell.png?size=96"
+  },
+  "ShivyC": {
+    "file": "shivyc.png",
+    "source": "https://avatars.githubusercontent.com/u/3826263?v=4",
+    "note": "Repository owner avatar; no dedicated project logo found in the project README."
   }
 }

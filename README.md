@@ -58,12 +58,15 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <td align="center" width="100"><a href="CONTRIBUTION.md#sentry"><img src="assets/projects/sentry.svg" width="42" height="42" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
 </tr>
 <tr>
+<td align="center" width="100"><a href="CONTRIBUTION.md#shivyc"><img src="assets/projects/shivyc.png" width="42" height="42" alt="ShivyC"/><br/><sub>ShivyC</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#sqlite3-ruby"><img src="assets/projects/sqlite3-ruby.png" width="42" height="42" alt="sqlite3-ruby"/><br/><sub>sqlite3-ruby</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#tilelang"><img src="assets/projects/tilelang.png" width="42" height="42" alt="TileLang"/><br/><sub>TileLang</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#unicorn"><img src="assets/projects/unicorn.png" width="42" height="42" alt="Unicorn"/><br/><sub>Unicorn</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#wasm3"><img src="assets/projects/wasm3.png" width="42" height="42" alt="Wasm3"/><br/><sub>Wasm3</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#wasmtime"><img src="assets/projects/wasmtime.png" width="42" height="42" alt="Wasmtime"/><br/><sub>Wasmtime</sub></a></td>
 <td align="center" width="100"><a href="CONTRIBUTION.md#xgrammar"><img src="assets/projects/xgrammar.png" width="42" height="42" alt="XGrammar"/><br/><sub>XGrammar</sub></a></td>
+</tr>
+<tr>
 <td align="center" width="100"><a href="CONTRIBUTION.md#yasm"><img src="assets/projects/yasm.png" width="42" height="42" alt="Yasm"/><br/><sub>Yasm</sub></a></td>
 </tr>
 </table>
