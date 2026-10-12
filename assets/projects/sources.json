@@ -62,8 +62,8 @@
     }
   },
   "Augeas": {
-    "file": "transparent/augeas.png",
-    "source": "https://github.com/hercules-team",
+    "file": "organizations/redhat.png",
+    "source": "https://github.com/RedHatOfficial.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -73,14 +73,17 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/2223281?v=4&s=256",
       "brand_group": "hercules-team",
       "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+      "decision": "documented_relationship_brand",
+      "reason": "Historical development relationship: official Augeas presentation identifies its author as Red Hat.",
+      "display_brand": "Red Hat",
+      "relationship_source": "https://augeas.net/docs/augeas.pdf"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
       "source": "https://github.com/hercules-team/augeas/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
+    },
+    "note": "Historical development relationship: official Augeas presentation identifies its author as Red Hat."
   },
   "BlueZ": {
     "file": "transparent/bluez.png",
@@ -189,8 +192,8 @@
     }
   },
   "free5GC gtp5g": {
-    "file": "transparent/free5gc-gtp5g.png",
-    "source": "https://github.com/free5gc",
+    "file": "organizations/linuxfoundation.png",
+    "source": "https://github.com/linuxfoundation.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -200,14 +203,17 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/60503529?v=4&s=256",
       "brand_group": "free5gc",
       "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+      "decision": "documented_relationship_brand",
+      "reason": "free5GC is a Linux Foundation project.",
+      "display_brand": "Linux Foundation",
+      "relationship_source": "https://free5gc.org/"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
       "source": "https://github.com/free5gc/gtp5g/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
+    },
+    "note": "free5GC is a Linux Foundation project."
   },
   "GitProxy": {
     "file": "organizations/gitproxy.png",
@@ -255,8 +261,8 @@
     }
   },
   "GPAC": {
-    "file": "transparent/gpac.png",
-    "source": "https://github.com/gpac",
+    "file": "organizations/netflix.png",
+    "source": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.png",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -266,14 +272,17 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/7303020?v=4&s=256",
       "brand_group": "gpac",
       "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+      "decision": "documented_relationship_brand",
+      "reason": "Netflix is a documented sponsor of GPAC.",
+      "display_brand": "Netflix",
+      "relationship_source": "https://gpac.io/sponsorship/"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
       "source": "https://github.com/gpac/gpac/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
+    },
+    "note": "Netflix is a documented sponsor of GPAC."
   },
   "HDF5": {
     "file": "organizations/hdf5.png",
@@ -486,10 +495,10 @@
     }
   },
   "open62541": {
-    "file": "organizations/open62541.png",
-    "source": "https://avatars.githubusercontent.com/u/16096536?v=4&s=256",
+    "file": "organizations/fraunhofer.png",
+    "source": "https://github.com/FraunhoferIOSB.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "note": "Official open62541 project organization avatar; project name and link remain open62541.",
+    "note": "Fraunhofer IOSB was a longstanding core maintainer, before the o6 Automation spin-off.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
       "owner": "open62541",
@@ -498,8 +507,10 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/16096536?v=4&s=256",
       "brand_group": "open62541",
       "listed_projects_in_group": 1,
-      "decision": "replace_with_organization",
-      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+      "decision": "documented_relationship_brand",
+      "reason": "Fraunhofer IOSB was a longstanding core maintainer, before the o6 Automation spin-off.",
+      "display_brand": "Fraunhofer IOSB",
+      "relationship_source": "https://open62541.org/"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
@@ -1091,9 +1102,9 @@
     "source": "https://avatars.githubusercontent.com/u/22105643?v=4",
     "note": "GitLab organization mark. User confirms indirect contribution via Oj; no direct GitLab patch or specific downstream vulnerability independently verified."
   },
-  "Certic": {
+  "CertiK": {
     "file": "organizations/certik.png",
     "source": "https://www.certik.com/brand/logos/certik-logomark-red.svg",
-    "note": "Official CertiK red standalone logomark. Listed in Contributions at user request with display name Certic; user confirms prior work at the company."
+    "note": "Official CertiK red standalone shield. Included in Contributions at user request based on work at CertiK."
   }
 }
