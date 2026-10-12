@@ -173,7 +173,7 @@
   "PyRIT": {
     "file": "pyrit.png",
     "source": "https://github.com/microsoft.png?size=256",
-    "note": "Official Microsoft organization avatar; links and label identify the specific PyRIT contribution."
+    "note": "Official Microsoft organization avatar; links to the specific PyRIT project."
   },
   "libjpeg-turbo": {
     "file": "libjpeg-turbo.png",
@@ -182,7 +182,7 @@
   "BSON Ruby": {
     "file": "bson-ruby.png",
     "source": "https://github.com/mongodb.png?size=256",
-    "note": "MongoDB organization mark; BSON is a MongoDB project."
+    "note": "Official MongoDB organization avatar, displayed with a circular crop and transparent padding; links to BSON Ruby."
   },
   "RMagick": {
     "file": "rmagick.png",
