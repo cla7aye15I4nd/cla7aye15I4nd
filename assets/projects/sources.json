@@ -1,220 +1,272 @@
 {
   "ANGLE": {
-    "file": "angle.png",
+    "file": "transparent/angle.png",
     "source": "https://github.com/google.png?size=256",
-    "note": "Official Google organization avatar; ANGLE is a Google project."
+    "note": "Official Google organization avatar; ANGLE is a Google project.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "angr": {
-    "file": "angr.png",
-    "source": "https://github.com/angr"
+    "file": "transparent/angr.png",
+    "source": "https://github.com/angr",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Assimp": {
-    "file": "assimp.png",
-    "source": "https://github.com/assimp"
+    "file": "transparent/assimp.png",
+    "source": "https://github.com/assimp",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Augeas": {
-    "file": "augeas.png",
-    "source": "https://github.com/hercules-team"
+    "file": "transparent/augeas.png",
+    "source": "https://github.com/hercules-team",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "BlueZ": {
-    "file": "bluez.png",
-    "source": "https://github.com/bluez"
+    "file": "transparent/bluez.png",
+    "source": "https://github.com/bluez",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "C-Blosc2": {
-    "file": "c-blosc2.png",
-    "source": "https://github.com/Blosc"
+    "file": "transparent/c-blosc2.png",
+    "source": "https://github.com/Blosc",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "CTF Wiki": {
-    "file": "ctf-wiki.png",
-    "source": "https://ctf-wiki.org/static/img/logo.png"
+    "file": "transparent/ctf-wiki.png",
+    "source": "https://ctf-wiki.org/static/img/logo.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "curl": {
-    "file": "curl.png",
-    "source": "https://curl.se/logo/curl-logo.svg"
+    "file": "transparent/curl.png",
+    "source": "https://curl.se/logo/curl-logo.svg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "FFmpeg": {
-    "file": "ffmpeg.png",
-    "source": "https://avatars.githubusercontent.com/u/729418?v=4"
+    "file": "transparent/ffmpeg.png",
+    "source": "https://avatars.githubusercontent.com/u/729418?v=4",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "free5GC gtp5g": {
-    "file": "free5gc-gtp5g.png",
-    "source": "https://github.com/free5gc"
+    "file": "transparent/free5gc-gtp5g.png",
+    "source": "https://github.com/free5gc",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "GitProxy": {
-    "file": "gitproxy.png",
-    "source": "https://raw.githubusercontent.com/finos/git-proxy/main/website/static/img/logo.png"
+    "file": "transparent/gitproxy.png",
+    "source": "https://raw.githubusercontent.com/finos/git-proxy/main/website/static/img/logo.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "GNU Aspell": {
-    "file": "gnu-aspell.png",
-    "source": "https://www.gnu.org/graphics/gnu-head-sm.jpg"
+    "file": "transparent/gnu-aspell.png",
+    "source": "https://www.gnu.org/graphics/gnu-head-sm.jpg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "GPAC": {
-    "file": "gpac.png",
-    "source": "https://github.com/gpac"
+    "file": "transparent/gpac.png",
+    "source": "https://github.com/gpac",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "HDF5": {
-    "file": "hdf5.png",
-    "source": "https://raw.githubusercontent.com/HDFGroup/hdf5/develop/docs/doxygen/img/HDF5.png"
+    "file": "transparent/hdf5.png",
+    "source": "https://raw.githubusercontent.com/HDFGroup/hdf5/develop/docs/doxygen/img/HDF5.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "jq": {
-    "file": "jq.png",
-    "source": "https://github.com/jqlang.png?size=96"
+    "file": "transparent/jq.png",
+    "source": "https://github.com/jqlang.png?size=96",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "LibreDWG": {
-    "file": "libredwg.png",
-    "source": "https://github.com/LibreDWG"
+    "file": "transparent/libredwg.png",
+    "source": "https://github.com/LibreDWG",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "libssh2": {
-    "file": "libssh2.png",
-    "source": "https://libssh2.org/logo1-623.png"
+    "file": "transparent/libssh2.png",
+    "source": "https://libssh2.org/logo1-623.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "LibTIFF": {
-    "file": "libtiff.png",
+    "file": "transparent/libtiff.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/TIFF_wordmark_logo.svg",
-    "note": "TIFF format wordmark from the TIFF 6.0 specification. LibTIFF project and group have no uploaded avatar; this is the format mark, not an independent LibTIFF logo."
+    "note": "TIFF format wordmark from the TIFF 6.0 specification. LibTIFF project and group have no uploaded avatar; this is the format mark, not an independent LibTIFF logo.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Linux": {
-    "file": "linux.png",
-    "source": "https://www.kernel.org/theme/images/logos/tux.png"
+    "file": "transparent/linux.png",
+    "source": "https://www.kernel.org/theme/images/logos/tux.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "mJS": {
-    "file": "mjs.png",
+    "file": "transparent/mjs.png",
     "source": "https://github.com/cesanta.png?size=256",
-    "note": "Official Cesanta organization avatar."
+    "note": "Official Cesanta organization avatar.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Nokogiri": {
-    "file": "nokogiri.png",
-    "source": "https://nokogiri.org/images/nokogiri-serif-black.png"
+    "file": "transparent/nokogiri.png",
+    "source": "https://nokogiri.org/images/nokogiri-serif-black.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "ntopng": {
-    "file": "ntopng.png",
-    "source": "https://www.ntop.org/wp-content/uploads/2011/08/ntopng-icon-150x150.png"
+    "file": "transparent/ntopng.png",
+    "source": "https://www.ntop.org/wp-content/uploads/2011/08/ntopng-icon-150x150.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Oj": {
-    "file": "oj.png",
-    "source": "https://www.ohler.com/dev/images/oj_comet_64.svg"
+    "file": "transparent/oj.png",
+    "source": "https://www.ohler.com/dev/images/oj_comet_64.svg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "open62541": {
-    "file": "open62541.png",
-    "source": "https://open62541.org/images/logo-open62541.svg"
+    "file": "transparent/open62541.png",
+    "source": "https://open62541.org/images/logo-open62541.svg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "OpenWrt LuCI": {
-    "file": "openwrt-luci.png",
-    "source": "https://github.com/openwrt"
+    "file": "transparent/openwrt-luci.png",
+    "source": "https://github.com/openwrt",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "PcapPlusPlus": {
-    "file": "pcapplusplus.png",
-    "source": "https://pcapplusplus.github.io/img/logo/logo_color.png"
+    "file": "transparent/pcapplusplus.png",
+    "source": "https://pcapplusplus.github.io/img/logo/logo_color.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "PCL": {
-    "file": "pcl.png",
-    "source": "https://github.com/PointCloudLibrary"
+    "file": "transparent/pcl.png",
+    "source": "https://github.com/PointCloudLibrary",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "PHP": {
-    "file": "php.png",
-    "source": "https://www.php.net/images/logos/new-php-logo.svg"
+    "file": "transparent/php.png",
+    "source": "https://www.php.net/images/logos/new-php-logo.svg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Python": {
-    "file": "python.png",
-    "source": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
+    "file": "transparent/python.png",
+    "source": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Qiling": {
-    "file": "qiling.png",
-    "source": "https://github.com/qilingframework"
+    "file": "transparent/qiling.png",
+    "source": "https://github.com/qilingframework",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Sentry": {
-    "file": "sentry.png",
-    "source": "https://nokogiri.org/images/sponsors/sentry-icon.png"
+    "file": "transparent/sentry.png",
+    "source": "https://sentry.io/about/media-resources/",
+    "note": "Official Sentry website inline icon, with transparent background.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "sqlite3-ruby": {
-    "file": "sqlite3-ruby.png",
+    "file": "transparent/sqlite3-ruby.png",
     "source": "https://github.com/sparklemotion.png?size=256",
-    "note": "Official Sparkle Motion organization avatar."
+    "note": "Official Sparkle Motion organization avatar.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "TileLang": {
-    "file": "tilelang.png",
-    "source": "https://raw.githubusercontent.com/tile-ai/tilelang/main/docs/_static/img/logo-v2.png"
+    "file": "transparent/tilelang.png",
+    "source": "https://raw.githubusercontent.com/tile-ai/tilelang/main/docs/_static/img/logo-v2.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Unicorn": {
-    "file": "unicorn.png",
-    "source": "https://github.com/unicorn-engine"
+    "file": "transparent/unicorn.png",
+    "source": "https://github.com/unicorn-engine",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Wasm3": {
-    "file": "wasm3.png",
-    "source": "https://raw.githubusercontent.com/wasm3/wasm3/main/extra/wasm-symbol.svg"
+    "file": "transparent/wasm3.png",
+    "source": "https://raw.githubusercontent.com/wasm3/wasm3/main/extra/wasm-symbol.svg",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Wasmtime": {
-    "file": "wasmtime.png",
+    "file": "transparent/wasmtime.png",
     "source": "https://github.com/bytecodealliance",
-    "note": "Bytecode Alliance mark as used on the official Wasmtime website."
+    "note": "Bytecode Alliance mark as used on the official Wasmtime website.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Yasm": {
-    "file": "yasm.png",
-    "source": "https://github.com/yasm"
+    "file": "transparent/yasm.png",
+    "source": "https://github.com/yasm",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "XGrammar": {
-    "file": "xgrammar.png",
-    "source": "https://raw.githubusercontent.com/mlc-ai/xgrammar/main/assets/logo_square.png"
+    "file": "transparent/xgrammar.png",
+    "source": "https://raw.githubusercontent.com/mlc-ai/xgrammar/main/assets/logo_square.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Protobuf": {
-    "file": "protobuf.png",
-    "source": "https://protobuf.dev/favicons/android-192x192.png"
+    "file": "transparent/protobuf.png",
+    "source": "https://protobuf.dev/favicons/android-192x192.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Bootsnap": {
-    "file": "bootsnap.png",
-    "source": "https://github.com/rails.png?size=256",
-    "note": "Official Rails organization avatar."
+    "file": "transparent/bootsnap.png",
+    "source": "https://rubyonrails.org/assets/images/logo.svg",
+    "note": "Official Rails website vector logo; represents Bootsnap.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Hunspell": {
-    "file": "hunspell.png",
+    "file": "transparent/hunspell.png",
     "source": "https://github.com/hunspell.png?size=256",
-    "note": "Official Hunspell organization avatar."
+    "note": "Official Hunspell organization avatar.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "PyRIT": {
-    "file": "pyrit.png",
+    "file": "transparent/pyrit.png",
     "source": "https://github.com/microsoft.png?size=256",
-    "note": "Official Microsoft organization avatar; links to the specific PyRIT project."
+    "note": "Official Microsoft organization avatar; links to the specific PyRIT project.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "libjpeg-turbo": {
-    "file": "libjpeg-turbo.png",
-    "source": "https://github.com/libjpeg-turbo.png?size=256"
+    "file": "transparent/libjpeg-turbo.png",
+    "source": "https://github.com/libjpeg-turbo.png?size=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "BSON Ruby": {
-    "file": "bson-ruby.png",
+    "file": "transparent/bson-ruby.png",
     "source": "https://github.com/mongodb.png?size=256",
-    "note": "Official MongoDB organization avatar, displayed with a circular crop and transparent padding; links to BSON Ruby."
+    "note": "Official MongoDB organization avatar, displayed with a circular crop and transparent padding; links to BSON Ruby.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "RMagick": {
-    "file": "rmagick.png",
-    "source": "https://rmagick.github.io/ex/images/logo400x83.gif"
+    "file": "transparent/rmagick.png",
+    "source": "https://rmagick.github.io/ex/images/logo400x83.gif",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "PostgreSQL": {
-    "file": "postgresql.png",
-    "source": "https://www.postgresql.org/media/img/about/press/elephant.png"
+    "file": "transparent/postgresql.png",
+    "source": "https://www.postgresql.org/media/img/about/press/elephant.png",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Ruby JSON": {
-    "file": "ruby-json.png",
+    "file": "transparent/ruby-json.png",
     "source": "https://github.com/ruby.png?size=256",
-    "note": "Official Ruby organization avatar."
+    "note": "Official Ruby organization avatar.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "ruby-pg": {
-    "file": "ruby-pg.png",
+    "file": "transparent/ruby-pg.png",
     "source": "https://github.com/ged.png?size=256",
-    "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README."
+    "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "MySQL": {
-    "file": "mysql.png",
+    "file": "transparent/mysql.png",
     "source": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
-    "note": "Official MySQL website logo."
+    "note": "Official MySQL website logo.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Oracle": {
-    "file": "oracle.png",
+    "file": "transparent/oracle.png",
     "source": "https://github.com/oracle.png?size=256",
-    "note": "Official Oracle organization avatar."
+    "note": "Official Oracle organization avatar.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   },
   "Puma": {
-    "file": "puma.png",
+    "file": "transparent/puma.png",
     "source": "https://puma.io/images/logos/downloads/standard-logo.svg",
-    "note": "Official Puma website logo."
+    "note": "Official Puma website logo.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
   }
 }
