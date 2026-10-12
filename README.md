@@ -2,7 +2,7 @@
 
 Security researcher building agents and systems for vulnerability discovery, understanding, and repair.
 
-Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <a href="https://www.certik.com/"><img src="assets/projects/organizations/certik.png" width="24" alt="CertiK"/> CertiK</a>. PhD in Computer Science from [Northwestern University](https://www.northwestern.edu/).
+Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer Science from [Northwestern University](https://www.northwestern.edu/).
 
 [Home](https://www.dataisland.org/) · [X](https://x.com/dataisland99) · [LinkedIn](https://www.linkedin.com/in/zheng-yu-446b46250/)
 
@@ -32,15 +32,16 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 </tr>
 <tr>
 <td align="center" valign="top" width="120"><a href="https://github.com/FFmpeg/FFmpeg" title="FFmpeg"><img src="assets/projects/transparent/ffmpeg.png" width="56" alt="FFmpeg"/><br/><sub>FFmpeg</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://www.certik.com/" title="Certic"><img src="assets/projects/organizations/certik.png" width="56" alt="Certic"/><br/><sub>Certic</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/getsentry/sentry-python" title="Sentry"><img src="assets/projects/organizations/sentry-color.png" width="56" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/protocolbuffers/protobuf" title="Protobuf"><img src="assets/projects/transparent/protobuf.png" width="56" alt="Protobuf"/><br/><sub>Protobuf</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/openwrt/luci" title="OpenWrt LuCI"><img src="assets/projects/transparent/openwrt-luci.png" width="56" alt="OpenWrt LuCI"/><br/><sub>OpenWrt LuCI</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/curl/curl" title="curl"><img src="assets/projects/organizations/curl.png" width="56" alt="curl"/><br/><sub>curl</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/bytecodealliance/wasmtime" title="Wasmtime"><img src="assets/projects/transparent/wasmtime.png" width="56" alt="Wasmtime"/><br/><sub>Wasmtime</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/GNUAspell/aspell" title="GNU Aspell"><img src="assets/projects/transparent/gnu-aspell.png" width="56" alt="GNU Aspell"/><br/><sub>GNU Aspell</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/finos/git-proxy" title="GitProxy — FINOS"><img src="assets/projects/organizations/gitproxy.png" width="56" alt="GitProxy"/><br/><sub>GitProxy</sub></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="120"><a href="https://github.com/finos/git-proxy" title="GitProxy — FINOS"><img src="assets/projects/organizations/gitproxy.png" width="56" alt="GitProxy"/><br/><sub>GitProxy</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/jqlang/jq" title="jq"><img src="assets/projects/transparent/jq.png" width="56" alt="jq"/><br/><sub>jq</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/mlc-ai/xgrammar" title="XGrammar"><img src="assets/projects/organizations/xgrammar.png" width="56" alt="XGrammar"/><br/><sub>XGrammar</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/HDFGroup/hdf5" title="HDF5"><img src="assets/projects/organizations/hdf5.png" width="56" alt="HDF5"/><br/><sub>HDF5</sub></a></td>
@@ -48,9 +49,9 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 <td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/nokogiri" title="Nokogiri"><img src="assets/projects/transparent/nokogiri.png" width="56" alt="Nokogiri"/><br/><sub>Nokogiri</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/puma/puma" title="Puma"><img src="assets/projects/organizations/puma.png" width="56" alt="Puma"/><br/><sub>Puma</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/sqlite3-ruby" title="sqlite3-ruby"><img src="assets/projects/organizations/sqlite.png" width="56" alt="sqlite3-ruby"/><br/><sub>sqlite3-ruby</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://libtiff.gitlab.io/libtiff/" title="LibTIFF"><img src="assets/projects/transparent/libtiff.png" width="56" alt="LibTIFF"/><br/><sub>LibTIFF</sub></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="120"><a href="https://libtiff.gitlab.io/libtiff/" title="LibTIFF"><img src="assets/projects/transparent/libtiff.png" width="56" alt="LibTIFF"/><br/><sub>LibTIFF</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/bluez/bluez" title="BlueZ"><img src="assets/projects/transparent/bluez.png" width="56" alt="BlueZ"/><br/><sub>BlueZ</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/libjpeg-turbo/libjpeg-turbo" title="libjpeg-turbo"><img src="assets/projects/transparent/libjpeg-turbo.png" width="56" alt="libjpeg-turbo"/><br/><sub>libjpeg-turbo</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/gpac/gpac" title="GPAC"><img src="assets/projects/transparent/gpac.png" width="56" alt="GPAC"/><br/><sub>GPAC</sub></a></td>
@@ -58,9 +59,9 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 <td align="center" valign="top" width="120"><a href="https://github.com/angr/angr" title="angr"><img src="assets/projects/transparent/angr.png" width="56" alt="angr"/><br/><sub>angr</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/qilingframework/qiling" title="Qiling"><img src="assets/projects/transparent/qiling.png" width="56" alt="Qiling"/><br/><sub>Qiling</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/unicorn-engine/unicorn" title="Unicorn"><img src="assets/projects/transparent/unicorn.png" width="56" alt="Unicorn"/><br/><sub>Unicorn</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/open62541/open62541" title="open62541"><img src="assets/projects/organizations/open62541.png" width="56" alt="open62541"/><br/><sub>open62541</sub></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="120"><a href="https://github.com/open62541/open62541" title="open62541"><img src="assets/projects/organizations/open62541.png" width="56" alt="open62541"/><br/><sub>open62541</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/seladb/PcapPlusPlus" title="PcapPlusPlus"><img src="assets/projects/transparent/pcapplusplus.png" width="56" alt="PcapPlusPlus"/><br/><sub>PcapPlusPlus</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ntop/ntopng" title="ntopng"><img src="assets/projects/organizations/ntopng.png" width="56" alt="ntopng"/><br/><sub>ntopng</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ged/ruby-pg" title="ruby-pg"><img src="assets/projects/transparent/ruby-json.png" width="56" alt="ruby-pg"/><br/><sub>ruby-pg</sub></a></td>
@@ -68,9 +69,9 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 <td align="center" valign="top" width="120"><a href="https://github.com/ohler55/oj" title="Oj"><img src="assets/projects/transparent/oj.png" width="56" alt="Oj"/><br/><sub>Oj</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/hunspell/hunspell" title="Hunspell — supported by FSF.hu"><img src="assets/projects/organizations/fsfhu.png" width="56" alt="Hunspell"/><br/><sub>Hunspell</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/Blosc/c-blosc2" title="C-Blosc2"><img src="assets/projects/transparent/c-blosc2.png" width="56" alt="C-Blosc2"/><br/><sub>C-Blosc2</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/LibreDWG/libredwg" title="LibreDWG"><img src="assets/projects/transparent/libredwg.png" width="56" alt="LibreDWG"/><br/><sub>LibreDWG</sub></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="120"><a href="https://github.com/LibreDWG/libredwg" title="LibreDWG"><img src="assets/projects/transparent/libredwg.png" width="56" alt="LibreDWG"/><br/><sub>LibreDWG</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/free5gc/gtp5g" title="free5GC gtp5g"><img src="assets/projects/transparent/free5gc-gtp5g.png" width="56" alt="free5GC gtp5g"/><br/><sub>free5GC gtp5g</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ctf-wiki/ctf-wiki" title="CTF Wiki"><img src="assets/projects/transparent/ctf-wiki.png" width="56" alt="CTF Wiki"/><br/><sub>CTF Wiki</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/hercules-team/augeas" title="Augeas"><img src="assets/projects/transparent/augeas.png" width="56" alt="Augeas"/><br/><sub>Augeas</sub></a></td>
