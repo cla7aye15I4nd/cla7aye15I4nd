@@ -1113,7 +1113,7 @@
   "DepthFirst": {
     "file": "organizations/depthfirst.png",
     "source": "User-provided purple DepthFirst logo, 2026-10-11",
-    "note": "User-provided image used unchanged. Contribution grid order preserved."
+    "note": "User-provided purple mark; transparent outer padding trimmed and artwork proportionally fitted to the same 128px content area on a 160px canvas as neighboring icons."
   },
   "Apache": {
     "file": "organizations/apache.png",
