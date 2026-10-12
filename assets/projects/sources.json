@@ -213,7 +213,8 @@
       "source": "https://github.com/free5gc/gtp5g/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     },
-    "note": "free5GC is a Linux Foundation project."
+    "note": "free5GC is a Linux Foundation project.",
+    "display_label": "free5GC"
   },
   "GitProxy": {
     "file": "organizations/gitproxy.png",
@@ -258,7 +259,8 @@
       "reviewed_on": "2026-10-11",
       "source": "https://github.com/GNUAspell/aspell/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
+    },
+    "display_label": "Aspell"
   },
   "GPAC": {
     "file": "organizations/netflix.png",
@@ -537,7 +539,8 @@
       "reviewed_on": "2026-10-11",
       "source": "https://github.com/openwrt/luci/blob/master/README.md",
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
+    },
+    "display_label": "LuCI"
   },
   "PcapPlusPlus": {
     "file": "transparent/pcapplusplus.png",
