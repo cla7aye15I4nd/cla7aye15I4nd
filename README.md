@@ -13,8 +13,8 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <tr>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#linux"><img src="assets/projects/linux.png" width="80" height="43" alt="Linux"/><br/><sub>Linux</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#python"><img src="assets/projects/python.png" width="80" height="43" alt="Python"/><br/><sub>Python</sub></a></td>
-<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#angle"><img src="assets/projects/angle.png" width="80" height="43" alt="ANGLE"/><br/><sub>Google · ANGLE</sub></a></td>
-<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#pyrit"><img src="assets/projects/pyrit.png" width="80" height="43" alt="PyRIT"/><br/><sub>Microsoft · PyRIT</sub></a></td>
+<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#angle"><img src="assets/projects/angle.png" width="80" height="43" alt="ANGLE"/><br/><sub>ANGLE</sub></a></td>
+<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#pyrit"><img src="assets/projects/pyrit.png" width="80" height="43" alt="PyRIT"/><br/><sub>PyRIT</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#oracle"><img src="assets/projects/oracle.png" width="80" height="43" alt="Oracle"/><br/><sub>Oracle</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#mysql"><img src="assets/projects/mysql.png" width="80" height="43" alt="MySQL"/><br/><sub>MySQL</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#ffmpeg"><img src="assets/projects/ffmpeg.png" width="80" height="43" alt="FFmpeg"/><br/><sub>FFmpeg</sub></a></td>
@@ -22,8 +22,8 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 </tr>
 <tr>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#postgresql"><img src="assets/projects/postgresql.png" width="80" height="43" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></a></td>
-<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#bson-ruby"><img src="assets/projects/bson-ruby.png" width="80" height="43" alt="BSON Ruby"/><br/><sub>MongoDB · BSON</sub></a></td>
-<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#bootsnap"><img src="assets/projects/bootsnap.png" width="80" height="43" alt="Bootsnap"/><br/><sub>Rails · Bootsnap</sub></a></td>
+<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#bson-ruby"><img src="assets/projects/bson-ruby.png" width="80" height="43" alt="BSON Ruby"/><br/><sub>BSON Ruby</sub></a></td>
+<td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#bootsnap"><img src="assets/projects/bootsnap.png" width="80" height="43" alt="Bootsnap"/><br/><sub>Bootsnap</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#sentry"><img src="assets/projects/sentry.png" width="80" height="43" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#protobuf"><img src="assets/projects/protobuf.png" width="80" height="43" alt="Protobuf"/><br/><sub>Protobuf</sub></a></td>
 <td align="center" valign="middle" width="12.5%"><a href="CONTRIBUTION.md#gnu-aspell"><img src="assets/projects/gnu-aspell.png" width="80" height="43" alt="GNU Aspell"/><br/><sub>GNU Aspell</sub></a></td>
