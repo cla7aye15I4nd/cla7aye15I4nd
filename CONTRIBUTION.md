@@ -98,6 +98,10 @@
 
 [Issue #250](https://github.com/cesanta/mjs/issues/250)
 
+## MySQL
+
+[Official project](https://www.mysql.com/)
+
 ## Nokogiri
 
 [GHSA-phwj-rprq-35pp](https://github.com/advisories/GHSA-phwj-rprq-35pp) · [GHSA-wfpw-mmfh-qq69](https://github.com/advisories/GHSA-wfpw-mmfh-qq69) · [GHSA-p67v-3w7g-wjg7](https://github.com/advisories/GHSA-p67v-3w7g-wjg7) · [GHSA-wjv4-x9w8-wm3h](https://github.com/advisories/GHSA-wjv4-x9w8-wm3h) · [GHSA-5prr-v3j2-97mh](https://github.com/advisories/GHSA-5prr-v3j2-97mh) · [GHSA-9cv2-cfxc-v4v2](https://github.com/advisories/GHSA-9cv2-cfxc-v4v2) · [GHSA-5v8h-3h3q-446p](https://github.com/advisories/GHSA-5v8h-3h3q-446p) · [GHSA-g9g8-vgvw-g3vf](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-g9g8-vgvw-g3vf) · [GHSA-p67v-3w7g-wjg7](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-p67v-3w7g-wjg7) · [GHSA-wfpw-mmfh-qq69](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-wfpw-mmfh-qq69) · [GHSA-wjv4-x9w8-wm3h](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-wjv4-x9w8-wm3h) · [GHSA-phwj-rprq-35pp](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-phwj-rprq-35pp) · [GHSA-9cv2-cfxc-v4v2](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-9cv2-cfxc-v4v2) · [GHSA-5v8h-3h3q-446p](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-5v8h-3h3q-446p) · [GHSA-5prr-v3j2-97mh](https://github.com/sparklemotion/nokogiri/security/advisories/GHSA-5prr-v3j2-97mh) · [PR #3640](https://github.com/sparklemotion/nokogiri/pull/3640) · [Commit ed85adcc19](https://github.com/sparklemotion/nokogiri/commit/ed85adcc19d6ba21e735b1ade19d24a9c53fcb87) · [PR #3641](https://github.com/sparklemotion/nokogiri/pull/3641) · [Commit 9891ad1092](https://github.com/sparklemotion/nokogiri/commit/9891ad1092a265ae1cef220c377ebbabc9fde622) · [PR #3642](https://github.com/sparklemotion/nokogiri/pull/3642) · [Commit 07aa3918e6](https://github.com/sparklemotion/nokogiri/commit/07aa3918e656a8a9f3eea7622e09dbb4a052c3c0) · [PR #3643](https://github.com/sparklemotion/nokogiri/pull/3643) · [Commit 5524fa9786](https://github.com/sparklemotion/nokogiri/commit/5524fa97868ae26dfd74d700aba256b117262267) · [PR #3644](https://github.com/sparklemotion/nokogiri/pull/3644) · [Commit ef19e1329c](https://github.com/sparklemotion/nokogiri/commit/ef19e1329c39f885e980b301f33fb233f3431d14) · [PR #3645](https://github.com/sparklemotion/nokogiri/pull/3645) · [Commit 7799fbd325](https://github.com/sparklemotion/nokogiri/commit/7799fbd325f9f5e10fcccc77daaa903949a9d545) · [PR #3646](https://github.com/sparklemotion/nokogiri/pull/3646) · [Commit 6a0aa1e704](https://github.com/sparklemotion/nokogiri/commit/6a0aa1e7042ea58e10db713d4984c692a8db1a30) · [PR #3647](https://github.com/sparklemotion/nokogiri/pull/3647) · [Commit 04a09ddd67](https://github.com/sparklemotion/nokogiri/commit/04a09ddd67a4b573eb5c634655c2fb857e0436ad)
@@ -118,6 +122,10 @@
 
 [GHSA-jgc3-4q3p-g6xh](https://github.com/openwrt/luci/security/advisories/GHSA-jgc3-4q3p-g6xh) · [Commit cbf6d42c33](https://github.com/openwrt/luci/commit/cbf6d42c3370e0ffba3195659c4a99c483a3c1df)
 
+## Oracle
+
+[Official project](https://www.oracle.com/database/)
+
 ## PcapPlusPlus
 
 [PR #1699](https://github.com/seladb/PcapPlusPlus/pull/1699) · [PR #1680](https://github.com/seladb/PcapPlusPlus/pull/1680) · [PR #1678](https://github.com/seladb/PcapPlusPlus/pull/1678) · [Commit 132c9cf005](https://github.com/seladb/PcapPlusPlus/commit/132c9cf00500e691995a49e08bd68a96a095e76e) · [Commit a9e823951e](https://github.com/seladb/PcapPlusPlus/commit/a9e823951efa2aca929f09b0f842f902ce28249d) · [Commit bc5c08d3df](https://github.com/seladb/PcapPlusPlus/commit/bc5c08d3df37e9d725656c345d3991ab0c982717)
@@ -137,6 +145,10 @@
 ## Protobuf
 
 [Commit 2de70d7105](https://github.com/protocolbuffers/protobuf/commit/2de70d710510ea7c5ad7ec0c72bfed7f411c7b60)
+
+## Puma
+
+[Official project](https://puma.io/)
 
 ## PyRIT
 
@@ -165,10 +177,6 @@
 ## Sentry
 
 [PR #6216](https://github.com/getsentry/sentry-python/pull/6216) · [Commit 640c48d444](https://github.com/getsentry/sentry-python/commit/640c48d444c2e90d7a42d6f85e9e571cd9e9c88b)
-
-## ShivyC
-
-[PR #111](https://github.com/ShivamSarodia/ShivyC/pull/111) · [Commit e7d72eff23](https://github.com/ShivamSarodia/ShivyC/commit/e7d72eff237e1ef49ec70333497348baf86be425)
 
 ## sqlite3-ruby
 

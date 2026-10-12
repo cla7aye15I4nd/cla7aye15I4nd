@@ -170,11 +170,6 @@
     "source": "https://github.com/hunspell.png?size=256",
     "note": "Official Hunspell organization avatar."
   },
-  "ShivyC": {
-    "file": "shivyc.png",
-    "source": "https://avatars.githubusercontent.com/u/3826263?v=4",
-    "note": "Official repository owner avatar; project has no separate organization or logo."
-  },
   "PyRIT": {
     "file": "pyrit.png",
     "source": "https://raw.githubusercontent.com/microsoft/PyRIT/main/doc/roakey.png"
@@ -205,5 +200,20 @@
     "file": "ruby-pg.png",
     "source": "https://github.com/ged.png?size=256",
     "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README."
+  },
+  "MySQL": {
+    "file": "mysql.png",
+    "source": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
+    "note": "Official MySQL website logo."
+  },
+  "Oracle": {
+    "file": "oracle.png",
+    "source": "https://github.com/oracle.png?size=256",
+    "note": "Official Oracle organization avatar."
+  },
+  "Puma": {
+    "file": "puma.png",
+    "source": "https://puma.io/images/logos/downloads/standard-logo.svg",
+    "note": "Official Puma website logo."
   }
 }
