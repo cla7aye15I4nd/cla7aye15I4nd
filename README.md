@@ -2,7 +2,7 @@
 
 Security researcher building agents and systems for vulnerability discovery, understanding, and repair.
 
-Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer Science from [Northwestern University](https://www.northwestern.edu/).
+Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <a href="https://www.certik.com/"><img src="assets/projects/organizations/certik.png" width="24" alt="CertiK"/> CertiK</a>. PhD in Computer Science from [Northwestern University](https://www.northwestern.edu/).
 
 [Home](https://www.dataisland.org/) · [X](https://x.com/dataisland99) · [LinkedIn](https://www.linkedin.com/in/zheng-yu-446b46250/)
 
