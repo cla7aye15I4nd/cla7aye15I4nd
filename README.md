@@ -47,7 +47,7 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 <td align="center" valign="top" width="120"><a href="https://github.com/PointCloudLibrary/pcl" title="PCL"><img src="assets/projects/transparent/pcl.png" width="56" alt="PCL"/><br/><sub>PCL</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/nokogiri" title="Nokogiri"><img src="assets/projects/transparent/nokogiri.png" width="56" alt="Nokogiri"/><br/><sub>Nokogiri</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/puma/puma" title="Puma"><img src="assets/projects/organizations/puma.png" width="56" alt="Puma"/><br/><sub>Puma</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/sqlite3-ruby" title="sqlite3-ruby"><img src="assets/projects/transparent/sqlite3-ruby.png" width="56" alt="sqlite3-ruby"/><br/><sub>sqlite3-ruby</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/sqlite3-ruby" title="sqlite3-ruby"><img src="assets/projects/organizations/sqlite.png" width="56" alt="sqlite3-ruby"/><br/><sub>sqlite3-ruby</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://libtiff.gitlab.io/libtiff/" title="LibTIFF"><img src="assets/projects/transparent/libtiff.png" width="56" alt="LibTIFF"/><br/><sub>LibTIFF</sub></a></td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). Previously at <
 <tr>
 <td align="center" valign="top" width="120"><a href="https://github.com/seladb/PcapPlusPlus" title="PcapPlusPlus"><img src="assets/projects/transparent/pcapplusplus.png" width="56" alt="PcapPlusPlus"/><br/><sub>PcapPlusPlus</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ntop/ntopng" title="ntopng"><img src="assets/projects/organizations/ntopng.png" width="56" alt="ntopng"/><br/><sub>ntopng</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/ged/ruby-pg" title="ruby-pg"><img src="assets/projects/transparent/ruby-pg.png" width="56" alt="ruby-pg"/><br/><sub>ruby-pg</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/ged/ruby-pg" title="ruby-pg"><img src="assets/projects/transparent/ruby-json.png" width="56" alt="ruby-pg"/><br/><sub>ruby-pg</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/rmagick/rmagick" title="RMagick"><img src="assets/projects/organizations/rmagick.png" width="56" alt="RMagick"/><br/><sub>RMagick</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ohler55/oj" title="Oj"><img src="assets/projects/transparent/oj.png" width="56" alt="Oj"/><br/><sub>Oj</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/hunspell/hunspell" title="Hunspell — supported by FSF.hu"><img src="assets/projects/organizations/fsfhu.png" width="56" alt="Hunspell"/><br/><sub>Hunspell</sub></a></td>

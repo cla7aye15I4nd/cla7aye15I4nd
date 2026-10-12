@@ -656,9 +656,9 @@
     }
   },
   "sqlite3-ruby": {
-    "file": "transparent/sqlite3-ruby.png",
-    "source": "https://github.com/sparklemotion.png?size=256",
-    "note": "Official Sparkle Motion organization avatar.",
+    "file": "organizations/sqlite.png",
+    "source": "https://www.sqlite.org/images/sqlite370_banner.svg",
+    "note": "Official SQLite logo used for its Ruby binding, at user request. Repository remains sparklemotion/sqlite3-ruby.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -668,8 +668,9 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/1851072?v=4&s=256",
       "brand_group": "Sparkle Motion",
       "listed_projects_in_group": 2,
-      "decision": "retain",
-      "reason": "Keep the organization avatar for this entry; the other Sparkle Motion project, Nokogiri, retains its own icon."
+      "decision": "ecosystem_brand_at_user_request",
+      "reason": "Prefer recognizable language/library marks over maintainer avatars; duplicate icons explicitly permitted.",
+      "display_brand": "SQLite"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
@@ -981,7 +982,7 @@
   "Ruby JSON": {
     "file": "transparent/ruby-json.png",
     "source": "https://github.com/ruby.png?size=256",
-    "note": "Official Ruby organization avatar.",
+    "note": "Ruby official red gem; intentionally shared with ruby-pg at user request.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -1001,9 +1002,9 @@
     }
   },
   "ruby-pg": {
-    "file": "transparent/ruby-pg.png",
-    "source": "https://github.com/ged.png?size=256",
-    "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README.",
+    "file": "transparent/ruby-json.png",
+    "source": "https://github.com/ruby.png?size=256",
+    "note": "Ruby language mark for the Ruby binding, at user request. Repository remains ged/ruby-pg.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -1013,8 +1014,9 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/13501?v=4&s=256",
       "brand_group": "ged",
       "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "No organization owner; retain the existing maintainer avatar fallback rather than falsely associating the repository with the Ruby or PostgreSQL organizations."
+      "decision": "ecosystem_brand_at_user_request",
+      "reason": "Prefer recognizable language/library marks over maintainer avatars; duplicate icons explicitly permitted.",
+      "display_brand": "Ruby"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
