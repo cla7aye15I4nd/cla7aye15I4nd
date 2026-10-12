@@ -172,7 +172,8 @@
   },
   "PyRIT": {
     "file": "pyrit.png",
-    "source": "https://raw.githubusercontent.com/microsoft/PyRIT/main/doc/roakey.png"
+    "source": "https://github.com/microsoft.png?size=256",
+    "note": "Official Microsoft organization avatar; links and label identify the specific PyRIT contribution."
   },
   "libjpeg-turbo": {
     "file": "libjpeg-turbo.png",
