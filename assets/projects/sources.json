@@ -1109,5 +1109,15 @@
     "file": "organizations/certik.png",
     "source": "https://www.certik.com/brand/logos/certik-logomark-red.svg",
     "note": "Official CertiK red standalone shield. Included in Contributions at user request based on work at CertiK."
+  },
+  "DepthFirst": {
+    "file": "organizations/depthfirst.png",
+    "source": "https://depthfirst.com/apple-touch-icon.png",
+    "note": "Official site icon. Added at user request based on their work at DepthFirst."
+  },
+  "Apache": {
+    "file": "organizations/apache.png",
+    "source": "https://github.com/apache.png?size=256",
+    "note": "Official Apache Software Foundation organization avatar. Added at user request based on their confirmation of a response to a submitted report; no specific Apache project or public commit inferred."
   }
 }
