@@ -210,10 +210,10 @@
     }
   },
   "GitProxy": {
-    "file": "organizations/linuxfoundation.png",
-    "source": "https://github.com/linuxfoundation.png?size=256",
+    "file": "organizations/gitproxy.png",
+    "source": "https://github.com/finos.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "note": "Linux Foundation mark: GitProxy is hosted by FINOS, an umbrella organization under the Linux Foundation.",
+    "note": "Official FINOS organization mark; GitProxy is a FINOS project.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
       "owner": "finos",
@@ -222,10 +222,10 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/35377814?v=4&s=256",
       "brand_group": "finos",
       "listed_projects_in_group": 1,
-      "decision": "umbrella_organization_brand",
+      "decision": "organization_brand",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid.",
-      "display_brand": "Linux Foundation",
-      "relationship_source": "https://www.finos.org/about-us"
+      "display_brand": "FINOS",
+      "relationship_source": "https://github.com/finos/git-proxy"
     },
     "sponsor_review": {
       "reviewed_on": "2026-10-11",
