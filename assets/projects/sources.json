@@ -3,270 +3,838 @@
     "file": "transparent/angle.png",
     "source": "https://github.com/google.png?size=256",
     "note": "Official Google organization avatar; ANGLE is a Google project.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "google",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/google",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1342004?v=4&s=256",
+      "brand_group": "Google",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "angr": {
     "file": "transparent/angr.png",
     "source": "https://github.com/angr",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "angr",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/angr",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/12520807?v=4&s=256",
+      "brand_group": "angr",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Assimp": {
     "file": "transparent/assimp.png",
     "source": "https://github.com/assimp",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "assimp",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/assimp",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/265533?v=4&s=256",
+      "brand_group": "assimp",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Augeas": {
     "file": "transparent/augeas.png",
     "source": "https://github.com/hercules-team",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "hercules-team",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/hercules-team",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/2223281?v=4&s=256",
+      "brand_group": "hercules-team",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "BlueZ": {
     "file": "transparent/bluez.png",
     "source": "https://github.com/bluez",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "bluez",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/bluez",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/57395048?v=4&s=256",
+      "brand_group": "bluez",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "C-Blosc2": {
     "file": "transparent/c-blosc2.png",
     "source": "https://github.com/Blosc",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "Blosc",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/Blosc",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/6469856?v=4&s=256",
+      "brand_group": "Blosc",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "CTF Wiki": {
     "file": "transparent/ctf-wiki.png",
     "source": "https://ctf-wiki.org/static/img/logo.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "ctf-wiki",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/ctf-wiki",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/29177726?v=4&s=256",
+      "brand_group": "ctf-wiki",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the official project logo, which matches the organization avatar."
+    }
   },
   "curl": {
-    "file": "transparent/curl.png",
-    "source": "https://curl.se/logo/curl-logo.svg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/curl.png",
+    "source": "https://avatars.githubusercontent.com/u/16928085?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official curl organization avatar; project name and link remain curl.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "curl",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/curl",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/16928085?v=4&s=256",
+      "brand_group": "curl",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "FFmpeg": {
     "file": "transparent/ffmpeg.png",
     "source": "https://avatars.githubusercontent.com/u/729418?v=4",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "FFmpeg",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/FFmpeg",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/729418?v=4&s=256",
+      "brand_group": "FFmpeg",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "free5GC gtp5g": {
     "file": "transparent/free5gc-gtp5g.png",
     "source": "https://github.com/free5gc",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "free5gc",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/free5gc",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/60503529?v=4&s=256",
+      "brand_group": "free5gc",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "GitProxy": {
-    "file": "transparent/gitproxy.png",
-    "source": "https://raw.githubusercontent.com/finos/git-proxy/main/website/static/img/logo.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/gitproxy.png",
+    "source": "https://avatars.githubusercontent.com/u/35377814?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official The Fintech Open Source Foundation (www.finos.org) organization avatar; project name and link remain GitProxy.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "finos",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/finos",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/35377814?v=4&s=256",
+      "brand_group": "finos",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "GNU Aspell": {
     "file": "transparent/gnu-aspell.png",
     "source": "https://www.gnu.org/graphics/gnu-head-sm.jpg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "GNUAspell",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/GNUAspell",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/23790612?v=4&s=256",
+      "brand_group": "GNU",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the recognizable GNU head instead of the GNUAspell identicon; LibreDWG keeps its own project mark."
+    }
   },
   "GPAC": {
     "file": "transparent/gpac.png",
     "source": "https://github.com/gpac",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "gpac",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/gpac",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/7303020?v=4&s=256",
+      "brand_group": "gpac",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "HDF5": {
-    "file": "transparent/hdf5.png",
-    "source": "https://raw.githubusercontent.com/HDFGroup/hdf5/develop/docs/doxygen/img/HDF5.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/hdf5.png",
+    "source": "https://avatars.githubusercontent.com/u/8572050?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official The HDF Group organization avatar; project name and link remain HDF5.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "HDFGroup",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/HDFGroup",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/8572050?v=4&s=256",
+      "brand_group": "HDFGroup",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "jq": {
     "file": "transparent/jq.png",
     "source": "https://github.com/jqlang.png?size=96",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "jqlang",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/jqlang",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/104800540?v=4&s=256",
+      "brand_group": "jqlang",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "LibreDWG": {
     "file": "transparent/libredwg.png",
     "source": "https://github.com/LibreDWG",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "LibreDWG",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/LibreDWG",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/39027244?v=4&s=256",
+      "brand_group": "GNU",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep its distinctive project/maintainer-organization mark; GNU is already represented by Aspell."
+    }
   },
   "libssh2": {
     "file": "transparent/libssh2.png",
     "source": "https://libssh2.org/logo1-623.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "libssh2",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/libssh2",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/11430937?v=4&s=256",
+      "brand_group": "libssh2",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the full official wordmark; the organization avatar is a cropped fragment of the same wordmark."
+    }
   },
   "LibTIFF": {
     "file": "transparent/libtiff.png",
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/TIFF_wordmark_logo.svg",
     "note": "TIFF format wordmark from the TIFF 6.0 specification. LibTIFF project and group have no uploaded avatar; this is the format mark, not an independent LibTIFF logo.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": null,
+      "owner_type": "GitLab group",
+      "owner_url": "https://gitlab.com/groups/libtiff",
+      "organization_avatar": null,
+      "brand_group": "LibTIFF",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Neither the upstream GitLab project nor group has an uploaded avatar. Keep the existing TIFF format mark as a documented fallback, not an organization logo."
+    }
   },
   "Linux": {
     "file": "transparent/linux.png",
     "source": "https://www.kernel.org/theme/images/logos/tux.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "torvalds",
+      "owner_type": "User",
+      "owner_url": "https://github.com/torvalds",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1024025?v=4&s=256",
+      "brand_group": "torvalds",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep Tux: the canonical kernel mascot is much more recognizable than the individual repository owner portrait."
+    }
   },
   "mJS": {
     "file": "transparent/mjs.png",
     "source": "https://github.com/cesanta.png?size=256",
     "note": "Official Cesanta organization avatar.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "cesanta",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/cesanta",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/5111322?v=4&s=256",
+      "brand_group": "cesanta",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Nokogiri": {
     "file": "transparent/nokogiri.png",
     "source": "https://nokogiri.org/images/nokogiri-serif-black.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "sparklemotion",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/sparklemotion",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1851072?v=4&s=256",
+      "brand_group": "Sparkle Motion",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep its own mark: Sparkle Motion is already represented by sqlite3-ruby."
+    }
   },
   "ntopng": {
-    "file": "transparent/ntopng.png",
-    "source": "https://www.ntop.org/wp-content/uploads/2011/08/ntopng-icon-150x150.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/ntopng.png",
+    "source": "https://avatars.githubusercontent.com/u/12014789?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official ntop organization avatar; project name and link remain ntopng.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "ntop",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/ntop",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/12014789?v=4&s=256",
+      "brand_group": "ntop",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "Oj": {
     "file": "transparent/oj.png",
     "source": "https://www.ohler.com/dev/images/oj_comet_64.svg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "ohler55",
+      "owner_type": "User",
+      "owner_url": "https://github.com/ohler55",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/118856?v=4&s=256",
+      "brand_group": "ohler55",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep project logo; repository belongs to an individual, whose portrait is not an organization logo."
+    }
   },
   "open62541": {
-    "file": "transparent/open62541.png",
-    "source": "https://open62541.org/images/logo-open62541.svg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/open62541.png",
+    "source": "https://avatars.githubusercontent.com/u/16096536?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official open62541 project organization avatar; project name and link remain open62541.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "open62541",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/open62541",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/16096536?v=4&s=256",
+      "brand_group": "open62541",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "OpenWrt LuCI": {
     "file": "transparent/openwrt-luci.png",
     "source": "https://github.com/openwrt",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "openwrt",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/openwrt",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/2528830?v=4&s=256",
+      "brand_group": "openwrt",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "PcapPlusPlus": {
     "file": "transparent/pcapplusplus.png",
     "source": "https://pcapplusplus.github.io/img/logo/logo_color.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "seladb",
+      "owner_type": "User",
+      "owner_url": "https://github.com/seladb",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/9059541?v=4&s=256",
+      "brand_group": "seladb",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep project logo; repository belongs to an individual, whose personal avatar is not an organization logo."
+    }
   },
   "PCL": {
     "file": "transparent/pcl.png",
     "source": "https://github.com/PointCloudLibrary",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "PointCloudLibrary",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/PointCloudLibrary",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/2059451?v=4&s=256",
+      "brand_group": "PointCloudLibrary",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "PHP": {
     "file": "transparent/php.png",
     "source": "https://www.php.net/images/logos/new-php-logo.svg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "php",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/php",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/25158?v=4&s=256",
+      "brand_group": "php",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the official transparent PHP mark, which matches the organization identity."
+    }
   },
   "Python": {
     "file": "transparent/python.png",
     "source": "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "python",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/python",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1525981?v=4&s=256",
+      "brand_group": "python",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the transparent official Python mark, which matches the organization identity."
+    }
   },
   "Qiling": {
     "file": "transparent/qiling.png",
     "source": "https://github.com/qilingframework",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "qilingframework",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/qilingframework",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/46340064?v=4&s=256",
+      "brand_group": "qilingframework",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Sentry": {
     "file": "transparent/sentry.png",
     "source": "https://sentry.io/about/media-resources/",
     "note": "Official Sentry website inline icon, with transparent background.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "getsentry",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/getsentry",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1396951?v=4&s=256",
+      "brand_group": "getsentry",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the transparent Sentry organization mark rather than its gradient-backed avatar."
+    }
   },
   "sqlite3-ruby": {
     "file": "transparent/sqlite3-ruby.png",
     "source": "https://github.com/sparklemotion.png?size=256",
     "note": "Official Sparkle Motion organization avatar.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "sparklemotion",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/sparklemotion",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1851072?v=4&s=256",
+      "brand_group": "Sparkle Motion",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the organization avatar for this entry; the other Sparkle Motion project, Nokogiri, retains its own icon."
+    }
   },
   "TileLang": {
     "file": "transparent/tilelang.png",
     "source": "https://raw.githubusercontent.com/tile-ai/tilelang/main/docs/_static/img/logo-v2.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "tile-ai",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/tile-ai",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/183584698?v=4&s=256",
+      "brand_group": "tile-ai",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the transparent project cube rather than the dark-backed organization avatar; they share the same visual identity."
+    }
   },
   "Unicorn": {
     "file": "transparent/unicorn.png",
     "source": "https://github.com/unicorn-engine",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "unicorn-engine",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/unicorn-engine",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/13391512?v=4&s=256",
+      "brand_group": "unicorn-engine",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Wasm3": {
     "file": "transparent/wasm3.png",
     "source": "https://raw.githubusercontent.com/wasm3/wasm3/main/extra/wasm-symbol.svg",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "wasm3",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/wasm3",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/58013131?v=4&s=256",
+      "brand_group": "wasm3",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the official vector-derived project mark, which matches the organization avatar."
+    }
   },
   "Wasmtime": {
     "file": "transparent/wasmtime.png",
     "source": "https://github.com/bytecodealliance",
     "note": "Bytecode Alliance mark as used on the official Wasmtime website.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "bytecodealliance",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/bytecodealliance",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/54038801?v=4&s=256",
+      "brand_group": "bytecodealliance",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Yasm": {
     "file": "transparent/yasm.png",
     "source": "https://github.com/yasm",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "yasm",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/yasm",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/640268?v=4&s=256",
+      "brand_group": "yasm",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "XGrammar": {
-    "file": "transparent/xgrammar.png",
-    "source": "https://raw.githubusercontent.com/mlc-ai/xgrammar/main/assets/logo_square.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/xgrammar.png",
+    "source": "https://avatars.githubusercontent.com/u/106173866?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official mlc-ai organization avatar; project name and link remain XGrammar.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "mlc-ai",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/mlc-ai",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/106173866?v=4&s=256",
+      "brand_group": "mlc-ai",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "Protobuf": {
     "file": "transparent/protobuf.png",
     "source": "https://protobuf.dev/favicons/android-192x192.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "protocolbuffers",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/protocolbuffers",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/26310541?v=4&s=256",
+      "brand_group": "Google",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the official project icon: Google is already represented by ANGLE; the protocolbuffers avatar is less legible at this size."
+    }
   },
   "Bootsnap": {
     "file": "transparent/bootsnap.png",
     "source": "https://rubyonrails.org/assets/images/logo.svg",
     "note": "Official Rails website vector logo; represents Bootsnap.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "rails",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/rails",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/4223?v=4&s=256",
+      "brand_group": "rails",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the transparent Rails organization mark rather than the red-backed avatar."
+    }
   },
   "Hunspell": {
     "file": "transparent/hunspell.png",
     "source": "https://github.com/hunspell.png?size=256",
     "note": "Official Hunspell organization avatar.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "hunspell",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/hunspell",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/12844923?v=4&s=256",
+      "brand_group": "hunspell",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "The organization uses an identicon and no better verified official logo was found; retain it as an organization-avatar fallback."
+    }
   },
   "PyRIT": {
     "file": "transparent/pyrit.png",
     "source": "https://github.com/microsoft.png?size=256",
     "note": "Official Microsoft organization avatar; links to the specific PyRIT project.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "microsoft",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/microsoft",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/6154722?v=4&s=256",
+      "brand_group": "microsoft",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "libjpeg-turbo": {
     "file": "transparent/libjpeg-turbo.png",
     "source": "https://github.com/libjpeg-turbo.png?size=256",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "libjpeg-turbo",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/libjpeg-turbo",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/13406820?v=4&s=256",
+      "brand_group": "libjpeg-turbo",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "BSON Ruby": {
     "file": "transparent/bson-ruby.png",
     "source": "https://github.com/mongodb.png?size=256",
     "note": "Official MongoDB organization avatar, displayed with a circular crop and transparent padding; links to BSON Ruby.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "mongodb",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/mongodb",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/45120?v=4&s=256",
+      "brand_group": "mongodb",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the circular MongoDB organization avatar requested by the user."
+    }
   },
   "RMagick": {
-    "file": "transparent/rmagick.png",
-    "source": "https://rmagick.github.io/ex/images/logo400x83.gif",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/rmagick.png",
+    "source": "https://avatars.githubusercontent.com/u/12403326?v=4&s=256",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "note": "Official rmagick organization avatar; project name and link remain RMagick.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "rmagick",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/rmagick",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/12403326?v=4&s=256",
+      "brand_group": "rmagick",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   },
   "PostgreSQL": {
     "file": "transparent/postgresql.png",
     "source": "https://www.postgresql.org/media/img/about/press/elephant.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "postgres",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/postgres",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/177543?v=4&s=256",
+      "brand_group": "postgres",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the transparent official elephant, which matches the organization identity."
+    }
   },
   "Ruby JSON": {
     "file": "transparent/ruby-json.png",
     "source": "https://github.com/ruby.png?size=256",
     "note": "Official Ruby organization avatar.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "ruby",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/ruby",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/210414?v=4&s=256",
+      "brand_group": "ruby",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "ruby-pg": {
     "file": "transparent/ruby-pg.png",
     "source": "https://github.com/ged.png?size=256",
     "note": "Official repository owner avatar; ruby-pg does not have a separate logo in its README.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "ged",
+      "owner_type": "User",
+      "owner_url": "https://github.com/ged",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/13501?v=4&s=256",
+      "brand_group": "ged",
+      "listed_projects_in_group": 1,
+      "decision": "retain",
+      "reason": "No organization owner; retain the existing maintainer avatar fallback rather than falsely associating the repository with the Ruby or PostgreSQL organizations."
+    }
   },
   "MySQL": {
     "file": "transparent/mysql.png",
     "source": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
     "note": "Official MySQL website logo.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "mysql",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/mysql",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/2452804?v=4&s=256",
+      "brand_group": "Oracle",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the MySQL dolphin: Oracle is already represented by the Oracle entry."
+    }
   },
   "Oracle": {
     "file": "transparent/oracle.png",
     "source": "https://github.com/oracle.png?size=256",
     "note": "Official Oracle organization avatar.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "oracle",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/oracle",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/4430336?v=4&s=256",
+      "brand_group": "Oracle",
+      "listed_projects_in_group": 2,
+      "decision": "retain",
+      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    }
   },
   "Puma": {
-    "file": "transparent/puma.png",
-    "source": "https://puma.io/images/logos/downloads/standard-logo.svg",
-    "note": "Official Puma website logo.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained."
+    "file": "organizations/puma.png",
+    "source": "https://avatars.githubusercontent.com/u/1264292?v=4&s=256",
+    "note": "Official Puma organization avatar; project name and link remain Puma.",
+    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
+    "organization_review": {
+      "reviewed_on": "2026-10-11",
+      "owner": "puma",
+      "owner_type": "Organization",
+      "owner_url": "https://github.com/puma",
+      "organization_avatar": "https://avatars.githubusercontent.com/u/1264292?v=4&s=256",
+      "brand_group": "puma",
+      "listed_projects_in_group": 1,
+      "decision": "replace_with_organization",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    }
   }
 }

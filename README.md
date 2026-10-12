@@ -31,17 +31,17 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <td align="center" valign="top" width="120"><a href="https://github.com/tile-ai/tilelang" title="TileLang"><img src="assets/projects/transparent/tilelang.png" width="56" alt="TileLang"/><br/><sub>TileLang</sub></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="120"><a href="https://github.com/curl/curl" title="curl"><img src="assets/projects/transparent/curl.png" width="56" alt="curl"/><br/><sub>curl</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/curl/curl" title="curl"><img src="assets/projects/organizations/curl.png" width="56" alt="curl"/><br/><sub>curl</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/jqlang/jq" title="jq"><img src="assets/projects/transparent/jq.png" width="56" alt="jq"/><br/><sub>jq</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/bytecodealliance/wasmtime" title="Wasmtime"><img src="assets/projects/transparent/wasmtime.png" width="56" alt="Wasmtime"/><br/><sub>Wasmtime</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/mlc-ai/xgrammar" title="XGrammar"><img src="assets/projects/transparent/xgrammar.png" width="56" alt="XGrammar"/><br/><sub>XGrammar</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/puma/puma" title="Puma"><img src="assets/projects/transparent/puma.png" width="56" alt="Puma"/><br/><sub>Puma</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/mlc-ai/xgrammar" title="XGrammar"><img src="assets/projects/organizations/xgrammar.png" width="56" alt="XGrammar"/><br/><sub>XGrammar</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/puma/puma" title="Puma"><img src="assets/projects/organizations/puma.png" width="56" alt="Puma"/><br/><sub>Puma</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/nokogiri" title="Nokogiri"><img src="assets/projects/transparent/nokogiri.png" width="56" alt="Nokogiri"/><br/><sub>Nokogiri</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ruby/json" title="Ruby JSON"><img src="assets/projects/transparent/ruby-json.png" width="56" alt="Ruby JSON"/><br/><sub>Ruby JSON</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/sparklemotion/sqlite3-ruby" title="sqlite3-ruby"><img src="assets/projects/transparent/sqlite3-ruby.png" width="56" alt="sqlite3-ruby"/><br/><sub>sqlite3-ruby</sub></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="120"><a href="https://github.com/HDFGroup/hdf5" title="HDF5"><img src="assets/projects/transparent/hdf5.png" width="56" alt="HDF5"/><br/><sub>HDF5</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/HDFGroup/hdf5" title="HDF5"><img src="assets/projects/organizations/hdf5.png" width="56" alt="HDF5"/><br/><sub>HDF5</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/PointCloudLibrary/pcl" title="PCL"><img src="assets/projects/transparent/pcl.png" width="56" alt="PCL"/><br/><sub>PCL</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/assimp/assimp" title="Assimp"><img src="assets/projects/transparent/assimp.png" width="56" alt="Assimp"/><br/><sub>Assimp</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://libtiff.gitlab.io/libtiff/" title="LibTIFF"><img src="assets/projects/transparent/libtiff.png" width="56" alt="LibTIFF"/><br/><sub>LibTIFF</sub></a></td>
@@ -55,14 +55,14 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <td align="center" valign="top" width="120"><a href="https://github.com/qilingframework/qiling" title="Qiling"><img src="assets/projects/transparent/qiling.png" width="56" alt="Qiling"/><br/><sub>Qiling</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/unicorn-engine/unicorn" title="Unicorn"><img src="assets/projects/transparent/unicorn.png" width="56" alt="Unicorn"/><br/><sub>Unicorn</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/wasm3/wasm3" title="Wasm3"><img src="assets/projects/transparent/wasm3.png" width="56" alt="Wasm3"/><br/><sub>Wasm3</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/finos/git-proxy" title="GitProxy"><img src="assets/projects/transparent/gitproxy.png" width="56" alt="GitProxy"/><br/><sub>GitProxy</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/open62541/open62541" title="open62541"><img src="assets/projects/transparent/open62541.png" width="56" alt="open62541"/><br/><sub>open62541</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/finos/git-proxy" title="GitProxy"><img src="assets/projects/organizations/gitproxy.png" width="56" alt="GitProxy"/><br/><sub>GitProxy</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/open62541/open62541" title="open62541"><img src="assets/projects/organizations/open62541.png" width="56" alt="open62541"/><br/><sub>open62541</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/seladb/PcapPlusPlus" title="PcapPlusPlus"><img src="assets/projects/transparent/pcapplusplus.png" width="56" alt="PcapPlusPlus"/><br/><sub>PcapPlusPlus</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/ntop/ntopng" title="ntopng"><img src="assets/projects/transparent/ntopng.png" width="56" alt="ntopng"/><br/><sub>ntopng</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/ntop/ntopng" title="ntopng"><img src="assets/projects/organizations/ntopng.png" width="56" alt="ntopng"/><br/><sub>ntopng</sub></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="120"><a href="https://github.com/ged/ruby-pg" title="ruby-pg"><img src="assets/projects/transparent/ruby-pg.png" width="56" alt="ruby-pg"/><br/><sub>ruby-pg</sub></a></td>
-<td align="center" valign="top" width="120"><a href="https://github.com/rmagick/rmagick" title="RMagick"><img src="assets/projects/transparent/rmagick.png" width="56" alt="RMagick"/><br/><sub>RMagick</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://github.com/rmagick/rmagick" title="RMagick"><img src="assets/projects/organizations/rmagick.png" width="56" alt="RMagick"/><br/><sub>RMagick</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ohler55/oj" title="Oj"><img src="assets/projects/transparent/oj.png" width="56" alt="Oj"/><br/><sub>Oj</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/hunspell/hunspell" title="Hunspell"><img src="assets/projects/transparent/hunspell.png" width="56" alt="Hunspell"/><br/><sub>Hunspell</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/Blosc/c-blosc2" title="C-Blosc2"><img src="assets/projects/transparent/c-blosc2.png" width="56" alt="C-Blosc2"/><br/><sub>C-Blosc2</sub></a></td>
