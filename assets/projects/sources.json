@@ -1112,8 +1112,8 @@
   },
   "DepthFirst": {
     "file": "organizations/depthfirst.png",
-    "source": "https://depthfirst.com/apple-touch-icon.png",
-    "note": "Official site icon. Added at user request based on their work at DepthFirst."
+    "source": "User-provided purple DepthFirst logo, 2026-10-11",
+    "note": "User-provided image used unchanged. Contribution grid order preserved."
   },
   "Apache": {
     "file": "organizations/apache.png",
