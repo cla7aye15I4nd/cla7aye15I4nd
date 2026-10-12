@@ -51,7 +51,7 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <td align="center" valign="top" width="120"><a href="https://github.com/getsentry/sentry-python" title="Sentry"><img src="assets/projects/organizations/sentry-color.png" width="56" alt="Sentry"/><br/><sub>Sentry</sub></a></td>
 </tr>
 <tr>
-<td align="center" valign="top" width="120"><a href="https://depthfirst.com/" title="DepthFirst"><img src="assets/projects/organizations/depthfirst.png" width="56" alt="DepthFirst"/><br/><sub>DepthFirst</sub></a></td>
+<td align="center" valign="top" width="120"><a href="https://depthfirst.com/" title="DepthFirst"><img src="assets/projects/organizations/depthfirst-purple-fitted.png" width="56" alt="DepthFirst"/><br/><sub>DepthFirst</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/ruby/json" title="Ruby JSON"><img src="assets/projects/transparent/ruby-json.png" width="56" alt="Ruby JSON"/><br/><sub>Ruby&nbsp;JSON</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/gpac/gpac" title="GPAC — Netflix is a documented sponsor of GPAC."><img src="assets/projects/organizations/netflix.png" width="56" alt="GPAC"/><br/><sub>GPAC</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://github.com/unicorn-engine/unicorn" title="Unicorn"><img src="assets/projects/transparent/unicorn.png" width="56" alt="Unicorn"/><br/><sub>Unicorn</sub></a></td>
