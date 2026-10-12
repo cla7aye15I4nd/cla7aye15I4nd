@@ -14,6 +14,11 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/google/angle/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "angr": {
@@ -30,22 +35,30 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/angr/angr/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Assimp": {
-    "file": "transparent/assimp.png",
-    "source": "https://github.com/assimp",
+    "file": "organizations/adobe.png",
+    "source": "https://github.com/adobe.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
       "owner": "assimp",
-      "owner_type": "Organization",
-      "owner_url": "https://github.com/assimp",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/265533?v=4&s=256",
-      "brand_group": "assimp",
-      "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+      "display_brand": "Adobe",
+      "decision": "sponsor_brand",
+      "relationship_basis": "Assimp Open Collective lists Adobe among its financial contributors.",
+      "relationship_source": "https://opencollective.com/assimp"
+    },
+    "note": "Adobe official mark used to represent a documented financial supporter of Assimp, not repository ownership.",
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/assimp/assimp/blob/master/Readme.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Augeas": {
@@ -62,6 +75,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/hercules-team/augeas/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "BlueZ": {
@@ -78,6 +96,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/bluez/bluez/blob/master/README",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "C-Blosc2": {
@@ -94,6 +117,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/Blosc/c-blosc2/blob/main/README.rst",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "CTF Wiki": {
@@ -110,6 +138,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the official project logo, which matches the organization avatar."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/ctf-wiki/ctf-wiki/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "curl": {
@@ -127,6 +160,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/curl/curl/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "FFmpeg": {
@@ -143,6 +181,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/FFmpeg/FFmpeg/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "free5GC gtp5g": {
@@ -159,13 +202,18 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/free5gc/gtp5g/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "GitProxy": {
-    "file": "organizations/gitproxy.png",
-    "source": "https://avatars.githubusercontent.com/u/35377814?v=4&s=256",
+    "file": "organizations/linuxfoundation.png",
+    "source": "https://github.com/linuxfoundation.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "note": "Official The Fintech Open Source Foundation (www.finos.org) organization avatar; project name and link remain GitProxy.",
+    "note": "Linux Foundation mark: GitProxy is hosted by FINOS, an umbrella organization under the Linux Foundation.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
       "owner": "finos",
@@ -174,8 +222,15 @@
       "organization_avatar": "https://avatars.githubusercontent.com/u/35377814?v=4&s=256",
       "brand_group": "finos",
       "listed_projects_in_group": 1,
-      "decision": "replace_with_organization",
-      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+      "decision": "umbrella_organization_brand",
+      "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid.",
+      "display_brand": "Linux Foundation",
+      "relationship_source": "https://www.finos.org/about-us"
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/finos/git-proxy/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "GNU Aspell": {
@@ -192,6 +247,11 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep the recognizable GNU head instead of the GNUAspell identicon; LibreDWG keeps its own project mark."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/GNUAspell/aspell/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "GPAC": {
@@ -208,6 +268,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/gpac/gpac/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "HDF5": {
@@ -225,6 +290,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/HDFGroup/hdf5/blob/develop/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "jq": {
@@ -241,6 +311,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/jqlang/jq/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "LibreDWG": {
@@ -257,6 +332,11 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep its distinctive project/maintainer-organization mark; GNU is already represented by Aspell."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/LibreDWG/libredwg/blob/master/README",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "libssh2": {
@@ -273,6 +353,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the full official wordmark; the organization avatar is a cropped fragment of the same wordmark."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/libssh2/libssh2/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "LibTIFF": {
@@ -306,6 +391,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep Tux: the canonical kernel mascot is much more recognizable than the individual repository owner portrait."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/torvalds/linux/blob/master/README",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "mJS": {
@@ -323,6 +413,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/cesanta/mjs/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Nokogiri": {
@@ -339,6 +434,12 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep its own mark: Sparkle Motion is already represented by sqlite3-ruby."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/sparklemotion/nokogiri/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship.",
+      "decision": "Retain project icon: Sentry and Codecov sponsor development, but Sentry already has its own contribution tile."
     }
   },
   "ntopng": {
@@ -356,6 +457,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/ntop/ntopng/blob/dev/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Oj": {
@@ -372,6 +478,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep project logo; repository belongs to an individual, whose portrait is not an organization logo."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/ohler55/oj/blob/develop/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "open62541": {
@@ -389,6 +500,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/open62541/open62541/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "OpenWrt LuCI": {
@@ -405,6 +521,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/openwrt/luci/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "PcapPlusPlus": {
@@ -421,6 +542,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep project logo; repository belongs to an individual, whose personal avatar is not an organization logo."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/seladb/PcapPlusPlus/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "PCL": {
@@ -437,6 +563,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/PointCloudLibrary/pcl/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "PHP": {
@@ -453,6 +584,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the official transparent PHP mark, which matches the organization identity."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/php/php-src/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Python": {
@@ -469,6 +605,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the transparent official Python mark, which matches the organization identity."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/python/cpython/blob/main/README.rst",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Qiling": {
@@ -485,12 +626,17 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/qilingframework/qiling/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Sentry": {
-    "file": "transparent/sentry.png",
-    "source": "https://sentry.io/about/media-resources/",
-    "note": "Official Sentry website inline icon, with transparent background.",
+    "file": "organizations/sentry-color.png",
+    "source": "https://github.com/getsentry.png?size=256",
+    "note": "Official colorful Sentry organization avatar, per user preference.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -502,6 +648,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the transparent Sentry organization mark rather than its gradient-backed avatar."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/getsentry/sentry-python/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "sqlite3-ruby": {
@@ -519,22 +670,33 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep the organization avatar for this entry; the other Sparkle Motion project, Nokogiri, retains its own icon."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/sparklemotion/sqlite3-ruby/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "TileLang": {
-    "file": "transparent/tilelang.png",
-    "source": "https://raw.githubusercontent.com/tile-ai/tilelang/main/docs/_static/img/logo-v2.png",
+    "file": "organizations/deepseek.png",
+    "source": "https://github.com/deepseek-ai.png?size=256",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
       "owner": "tile-ai",
-      "owner_type": "Organization",
-      "owner_url": "https://github.com/tile-ai",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/183584698?v=4&s=256",
-      "brand_group": "tile-ai",
-      "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the transparent project cube rather than the dark-backed organization avatar; they share the same visual identity."
+      "brand_group": "Tile-AI",
+      "display_brand": "DeepSeek",
+      "decision": "user_requested_ecosystem_mark",
+      "evidence": [
+        "https://github.com/tile-ai/tilelang",
+        "https://github.com/deepseek-ai/TileKernels"
+      ]
+    },
+    "note": "DeepSeek organization avatar selected explicitly by the user for presentation. TileLang remains a Tile-AI project; DeepSeek TileKernels uses TileLang. This icon choice does not assert DeepSeek ownership.",
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/tile-ai/tilelang/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Unicorn": {
@@ -551,6 +713,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/unicorn-engine/unicorn/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Wasm3": {
@@ -567,6 +734,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the official vector-derived project mark, which matches the organization avatar."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/wasm3/wasm3/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Wasmtime": {
@@ -584,6 +756,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/bytecodealliance/wasmtime/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Yasm": {
@@ -600,6 +777,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/yasm/yasm/blob/master/README",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "XGrammar": {
@@ -617,6 +799,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/mlc-ai/xgrammar/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Protobuf": {
@@ -633,12 +820,17 @@
       "listed_projects_in_group": 2,
       "decision": "retain",
       "reason": "Keep the official project icon: Google is already represented by ANGLE; the protocolbuffers avatar is less legible at this size."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/protocolbuffers/protobuf/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Bootsnap": {
-    "file": "transparent/bootsnap.png",
-    "source": "https://rubyonrails.org/assets/images/logo.svg",
-    "note": "Official Rails website vector logo; represents Bootsnap.",
+    "file": "organizations/rails-color.png",
+    "source": "https://github.com/rails.png?size=256",
+    "note": "Official red Rails organization avatar, per user preference.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
@@ -650,23 +842,32 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the transparent Rails organization mark rather than the red-backed avatar."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/rails/bootsnap/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Hunspell": {
-    "file": "transparent/hunspell.png",
-    "source": "https://github.com/hunspell.png?size=256",
-    "note": "Official Hunspell organization avatar.",
+    "file": "organizations/fsfhu.png",
+    "source": "https://fsf.hu/assets/images/fsfhu.png",
+    "note": "Official FSF.hu tree displayed on a rounded badge using the foundation website burgundy (#800100). FSF.hu is Hunspell’s primary sponsor, not a claimed legal owner. User requested sponsor branding.",
     "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
     "organization_review": {
       "reviewed_on": "2026-10-11",
-      "owner": "hunspell",
-      "owner_type": "Organization",
-      "owner_url": "https://github.com/hunspell",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/12844923?v=4&s=256",
-      "brand_group": "hunspell",
-      "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "The organization uses an identicon and no better verified official logo was found; retain it as an organization-avatar fallback."
+      "brand_group": "FSF.hu",
+      "relationship": "Primary project sponsor",
+      "evidence": [
+        "https://hunspell.github.io/",
+        "https://fsf.hu/projektjeink/"
+      ],
+      "decision": "user_requested_sponsor_mark"
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/hunspell/hunspell/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "PyRIT": {
@@ -684,6 +885,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/microsoft/PyRIT/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "libjpeg-turbo": {
@@ -700,6 +906,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "BSON Ruby": {
@@ -717,6 +928,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the circular MongoDB organization avatar requested by the user."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/mongodb/bson-ruby/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "RMagick": {
@@ -734,6 +950,11 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/rmagick/rmagick/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "PostgreSQL": {
@@ -750,6 +971,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the transparent official elephant, which matches the organization identity."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/postgres/postgres/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "Ruby JSON": {
@@ -767,6 +993,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/ruby/json/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "ruby-pg": {
@@ -784,6 +1015,11 @@
       "listed_projects_in_group": 1,
       "decision": "retain",
       "reason": "No organization owner; retain the existing maintainer avatar fallback rather than falsely associating the repository with the Ruby or PostgreSQL organizations."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/ged/ruby-pg/blob/master/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
   "MySQL": {
@@ -835,6 +1071,22 @@
       "listed_projects_in_group": 1,
       "decision": "replace_with_organization",
       "reason": "Replace with the official organization mark: one contributed project in this group; the organization mark is clearer and more compact in the grid."
+    },
+    "sponsor_review": {
+      "reviewed_on": "2026-10-11",
+      "source": "https://github.com/puma/puma/blob/main/README.md",
+      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
+  },
+  "Ubuntu": {
+    "file": "organizations/ubuntu.png",
+    "source": "https://assets.ubuntu.com/v1/8114528b-picto-ubuntu-orange.png",
+    "note": "Official Ubuntu Circle of Friends icon. Backport contributions confirmed directly by the user; specific public contribution URLs not yet located.",
+    "presentation": "Transparent padding; aspect ratio preserved."
+  },
+  "GitLab": {
+    "file": "organizations/gitlab.png",
+    "source": "https://avatars.githubusercontent.com/u/22105643?v=4",
+    "note": "GitLab organization mark. User confirms indirect contribution via Oj; no direct GitLab patch or specific downstream vulnerability independently verified."
   }
 }

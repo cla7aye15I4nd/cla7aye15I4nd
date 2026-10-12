@@ -50,6 +50,10 @@
 
 [PR #166](https://github.com/free5gc/gtp5g/pull/166) · [Commit 3acfd60b96](https://github.com/free5gc/gtp5g/commit/3acfd60b96c72dbb25e105c4dc00f116156e1039)
 
+## GitLab
+
+[Indirect contribution via Oj](#oj) · [Official project](https://gitlab.com/gitlab-org/gitlab)
+
 ## GitProxy
 
 [GHSA-293g-m6p5-4fqq](https://github.com/finos/git-proxy/security/advisories/GHSA-293g-m6p5-4fqq) · [GHSA-w285-c89q-mg53](https://github.com/finos/git-proxy/security/advisories/GHSA-w285-c89q-mg53) · [Commit 2ae671ac02](https://github.com/finos/git-proxy/commit/2ae671ac022bb9fd7e7a7c742c6fb48d7e68820c) · [Commit 4e8859f3b2](https://github.com/finos/git-proxy/commit/4e8859f3b23000c3e82d080c351926fd793731a5)
@@ -185,6 +189,10 @@
 ## TileLang
 
 [PR #2746](https://github.com/tile-ai/tilelang/pull/2746) · [PR #2744](https://github.com/tile-ai/tilelang/pull/2744) · [PR #2741](https://github.com/tile-ai/tilelang/pull/2741) · [PR #2740](https://github.com/tile-ai/tilelang/pull/2740) · [PR #2738](https://github.com/tile-ai/tilelang/pull/2738) · [PR #2730](https://github.com/tile-ai/tilelang/pull/2730) · [PR #2728](https://github.com/tile-ai/tilelang/pull/2728) · [PR #2727](https://github.com/tile-ai/tilelang/pull/2727) · [PR #2721](https://github.com/tile-ai/tilelang/pull/2721) · [Commit 5ef1500ed2](https://github.com/tile-ai/tilelang/commit/5ef1500ed27add9adc3e58fed0e809219edea345) · [Commit 1591d368db](https://github.com/tile-ai/tilelang/commit/1591d368dbbd3b2001132e13cad23449210215d3) · [Commit 235077cb58](https://github.com/tile-ai/tilelang/commit/235077cb5835c6a3632544f1cb4ec8acc396ac28) · [Commit 390d208db3](https://github.com/tile-ai/tilelang/commit/390d208db378ba0f6f65142460e3a9045c28874a) · [Commit 0c88682f6f](https://github.com/tile-ai/tilelang/commit/0c88682f6f216e4a7d02d453cdc2cbc18bf75c5d) · [Commit 512d51f518](https://github.com/tile-ai/tilelang/commit/512d51f518113bc40545b7dd808d07ec7e1e4393) · [Commit 322a9cbb6e](https://github.com/tile-ai/tilelang/commit/322a9cbb6ea771fe4201984f350f343c49f14414) · [Commit bd5ca2f05a](https://github.com/tile-ai/tilelang/commit/bd5ca2f05a384e9ae4cf798e971560c9b0c37608) · [Commit 8cfc90e026](https://github.com/tile-ai/tilelang/commit/8cfc90e026d7a117ed98d1d0cd2f55333b3be6a7)
+
+## Ubuntu
+
+[Official project](https://ubuntu.com/)
 
 ## Unicorn
 
