@@ -1119,5 +1119,10 @@
     "file": "organizations/apache.png",
     "source": "https://github.com/apache.png?size=256",
     "note": "Official Apache Software Foundation organization avatar. Added at user request based on their confirmation of a response to a submitted report; no specific Apache project or public commit inferred."
+  },
+  "pnpm": {
+    "file": "organizations/pnpm.png",
+    "source": "https://github.com/pnpm.png?size=160",
+    "note": "Official pnpm organization avatar. Contribution confirmed directly by the user on 2026-10-16; no specific public PR or commit inferred."
   }
 }

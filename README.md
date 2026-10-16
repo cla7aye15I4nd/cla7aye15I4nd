@@ -80,5 +80,8 @@ Currently at [DepthFirst, AI. Inc](https://www.depthfirst.com/). PhD in Computer
 <td align="center" valign="top" width="120"><a href="https://github.com/hercules-team/augeas" title="Augeas — Historical development relationship: official Augeas presentation identifies its author as Red Hat."><img src="assets/projects/organizations/redhat.png" width="56" alt="Augeas"/><br/><sub>Augeas</sub></a></td>
 <td align="center" valign="top" width="120"><a href="https://www.oracle.com/database/" title="Oracle"><img src="assets/projects/transparent/oracle.png" width="56" alt="Oracle"/><br/><sub>Oracle</sub></a></td>
 </tr>
+<tr>
+<td align="center" valign="top" width="120"><a href="https://github.com/pnpm/pnpm" title="pnpm"><img src="assets/projects/organizations/pnpm.png" width="56" alt="pnpm"/><br/><sub>pnpm</sub></a></td>
+</tr>
 </table>
 <!-- contributions:end -->

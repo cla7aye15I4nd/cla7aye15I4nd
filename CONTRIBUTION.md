@@ -142,6 +142,10 @@
 
 [PR #19056](https://github.com/php/php-src/pull/19056) · [Issue #16726](https://github.com/php/php-src/issues/16726) · [Commit b068ee307f](https://github.com/php/php-src/commit/b068ee307f3185ecd4d2a2f476c005bcc24e873a)
 
+## pnpm
+
+[Official project](https://github.com/pnpm/pnpm). Contribution confirmed by the author; specific public contribution links not yet recorded.
+
 ## PostgreSQL
 
 [Report fix 7bd56f7](https://github.com/postgres/postgres/commit/7bd56f7a3bdf1b8aaaf78218478bc7f4c88e3514) · [Report fix 3d724bf](https://github.com/postgres/postgres/commit/3d724bf4fde67a2931733a5143b7d6c12b23990c) · [Report fix 23d9ad7](https://github.com/postgres/postgres/commit/23d9ad771817c123ebdc16ebc65977754c82b5ab) · [Release credits](https://www.postgresql.org/docs/release/14.24/)
