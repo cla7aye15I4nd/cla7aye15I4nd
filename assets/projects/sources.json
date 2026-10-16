@@ -972,51 +972,6 @@
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
-  "Ruby JSON": {
-    "file": "transparent/ruby-json.png",
-    "source": "https://github.com/ruby.png?size=256",
-    "note": "Ruby official red gem; intentionally shared with ruby-pg at user request.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "organization_review": {
-      "reviewed_on": "2026-10-11",
-      "owner": "ruby",
-      "owner_type": "Organization",
-      "owner_url": "https://github.com/ruby",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/210414?v=4&s=256",
-      "brand_group": "ruby",
-      "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the existing organization mark or its equivalent transparent brand variant; it already represents the owning organization."
-    },
-    "sponsor_review": {
-      "reviewed_on": "2026-10-11",
-      "source": "https://github.com/ruby/json/blob/master/README.md",
-      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
-  },
-  "ruby-pg": {
-    "file": "transparent/ruby-json.png",
-    "source": "https://github.com/ruby.png?size=256",
-    "note": "Ruby language mark for the Ruby binding, at user request. Repository remains ged/ruby-pg.",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "organization_review": {
-      "reviewed_on": "2026-10-11",
-      "owner": "ged",
-      "owner_type": "User",
-      "owner_url": "https://github.com/ged",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/13501?v=4&s=256",
-      "brand_group": "ged",
-      "listed_projects_in_group": 1,
-      "decision": "ecosystem_brand_at_user_request",
-      "reason": "Prefer recognizable language/library marks over maintainer avatars; duplicate icons explicitly permitted.",
-      "display_brand": "Ruby"
-    },
-    "sponsor_review": {
-      "reviewed_on": "2026-10-11",
-      "source": "https://github.com/ged/ruby-pg/blob/master/README.md",
-      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
-  },
   "MySQL": {
     "file": "transparent/mysql.png",
     "source": "https://www.mysql.com/common/logos/logo-mysql-170x115.png",
@@ -1108,5 +1063,14 @@
     "file": "transparent/litellm.png",
     "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/litellm/proxy/logo_monogram.png",
     "note": "Official LiteLLM project monogram. User confirms maintainers acknowledged by email that their security report will be triaged; no completed fix or accepted vulnerability inferred."
+  },
+  "Ruby": {
+    "file": "transparent/ruby-json.png",
+    "source": "https://github.com/ruby.png?size=256",
+    "note": "Official Ruby gem. Combines the Ruby JSON and ruby-pg grid entries under Ruby at user request; original contribution evidence retained in CONTRIBUTION.md#ruby.",
+    "projects": [
+      "ruby/json",
+      "ged/ruby-pg"
+    ]
   }
 }
