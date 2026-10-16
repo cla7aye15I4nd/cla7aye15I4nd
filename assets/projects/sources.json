@@ -127,27 +127,6 @@
       "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
     }
   },
-  "CTF Wiki": {
-    "file": "transparent/ctf-wiki.png",
-    "source": "https://ctf-wiki.org/static/img/logo.png",
-    "presentation": "Transparent padding; aspect ratio preserved. Exterior neutral white background removed where present; colored artwork retained.",
-    "organization_review": {
-      "reviewed_on": "2026-10-11",
-      "owner": "ctf-wiki",
-      "owner_type": "Organization",
-      "owner_url": "https://github.com/ctf-wiki",
-      "organization_avatar": "https://avatars.githubusercontent.com/u/29177726?v=4&s=256",
-      "brand_group": "ctf-wiki",
-      "listed_projects_in_group": 1,
-      "decision": "retain",
-      "reason": "Keep the official project logo, which matches the organization avatar."
-    },
-    "sponsor_review": {
-      "reviewed_on": "2026-10-11",
-      "source": "https://github.com/ctf-wiki/ctf-wiki/blob/master/README.md",
-      "scope": "Official repository README checked for organizational and sponsor relationships; absence of a named sponsor here does not establish absence of sponsorship."
-    }
-  },
   "curl": {
     "file": "organizations/curl.png",
     "source": "https://avatars.githubusercontent.com/u/16928085?v=4&s=256",
@@ -1123,6 +1102,11 @@
   "pnpm": {
     "file": "organizations/pnpm.png",
     "source": "https://github.com/pnpm.png?size=160",
-    "note": "Official pnpm organization avatar. Contribution confirmed directly by the user on 2026-10-16; no specific public PR or commit inferred."
+    "note": "Official pnpm organization avatar. Security contribution via GHSA confirmed directly by the user on 2026-10-16."
+  },
+  "LiteLLM": {
+    "file": "transparent/litellm.png",
+    "source": "https://raw.githubusercontent.com/BerriAI/litellm/main/litellm/proxy/logo_monogram.png",
+    "note": "Official LiteLLM project monogram. User confirms maintainers acknowledged by email that their security report will be triaged; no completed fix or accepted vulnerability inferred."
   }
 }

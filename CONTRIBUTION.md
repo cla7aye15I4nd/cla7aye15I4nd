@@ -32,10 +32,6 @@
 
 [Issue #639](https://github.com/Blosc/c-blosc2/issues/639)
 
-## CTF Wiki
-
-[PR #557](https://github.com/ctf-wiki/ctf-wiki/pull/557) · [PR #556](https://github.com/ctf-wiki/ctf-wiki/pull/556) · [PR #525](https://github.com/ctf-wiki/ctf-wiki/pull/525) · [PR #520](https://github.com/ctf-wiki/ctf-wiki/pull/520) · [PR #313](https://github.com/ctf-wiki/ctf-wiki/pull/313) · [Commit 6ea2d63718](https://github.com/ctf-wiki/ctf-wiki/commit/6ea2d63718559c8e21e2813aff79012cb19d44b4) · [Commit 0d360139ec](https://github.com/ctf-wiki/ctf-wiki/commit/0d360139ec97b3e977092fb4415c80ee9935470b) · [Commit 3ceee42a43](https://github.com/ctf-wiki/ctf-wiki/commit/3ceee42a43e231d49e6588d272aee8551b4649a1) · [Commit 67c0d3f6a3](https://github.com/ctf-wiki/ctf-wiki/commit/67c0d3f6a391fe91c200625815866ba310ceb2c1) · [Commit 0f27ff5b4d](https://github.com/ctf-wiki/ctf-wiki/commit/0f27ff5b4dea1264afeca25b760f397845c4e0d6)
-
 ## curl
 
 [Commit 10bf036282](https://github.com/curl/curl/commit/10bf0362826681dd745b8eb06dee2af23a6a317c)
@@ -102,6 +98,10 @@
 
 [Issue #250](https://github.com/cesanta/mjs/issues/250)
 
+## LiteLLM
+
+[Official project](https://github.com/BerriAI/litellm). Security report submitted; maintainers confirmed by email that they will triage it, as reported by the author.
+
 ## MySQL
 
 [Official project](https://www.mysql.com/)
@@ -144,7 +144,7 @@
 
 ## pnpm
 
-[Official project](https://github.com/pnpm/pnpm). Contribution confirmed by the author; specific public contribution links not yet recorded.
+[Official project](https://github.com/pnpm/pnpm). Security contribution via GitHub Security Advisory (GHSA), confirmed by the author.
 
 ## PostgreSQL
 
